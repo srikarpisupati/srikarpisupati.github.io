@@ -27,6 +27,9 @@ GPA 4.0, SAT  1590/1600, 2019 - 2023
 C++, Python, Java, Swift, Firebase, NumPy, Git, Pandas, Matplotlib, Seaborn, SciPy (stats, linalg, optimize, sparse.csgraph), iOS, Scikit-Learn, Valgrind, Flask, PyTorch,  LaTex, Android, TensorFlow, OpenCV, MediaPipe, React
 
 # PROJECTS & HACKATHONS
+
+Can be found at my [github](github.com/srikarpisupati)
+
 ## FairShare — Undergraduate Research, Jan 2024 - Present
 Researched fair-division algorithms to optimally allocate indivisible resources, given individual preferences
 Developed a user-friendly iOS app (Swift, Cloud Functions) to compute allocations, maximizing Nash Welfare
