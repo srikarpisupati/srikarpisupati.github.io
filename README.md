@@ -12,16 +12,10 @@ In my free time, I love traveling, playing basketball with my friends, making mu
 
 Bachelor of Science in Computer Science, Grainger College of Engineering, 2023 - 2027
 
-GPA 3.9
-
-## Cupertino High School 
-
-GPA 4.0, SAT  1590/1600, 2019 - 2023
-
 # NOTABLE COURSES
 2024 Fall: ● CS 225: Data Structures ● CS 233: Computer Architecture ● CS 357: Numerical Methods I
-2024 Spring: ● CS 361: Probability & Statistics for CS (95%, A+) ● CS 128: Intro to CS II (99%, A) 
-  ● CS 173: Discrete Structures (97%, A+) ● MATH 257: Linear Algebra with Computational Applications (99%, A+) 
+2024 Spring: ● CS 361: Probability & Statistics for CS ● CS 128: Intro to CS II
+  ● CS 173: Discrete Structures ● MATH 257: Linear Algebra with Computational Applications
   
 # SKILLS
 C++, Python, Java, Swift, Firebase, NumPy, Git, Pandas, Matplotlib, Seaborn, SciPy (stats, linalg, optimize, sparse.csgraph), iOS, Scikit-Learn, Valgrind, Flask, PyTorch,  LaTex, Android, TensorFlow, OpenCV, MediaPipe, React
@@ -70,9 +64,9 @@ ML Projects: Trained and compared Random Forest, Decision Tree, kNN, and SVM mod
 
 ## AWARDS & LEADERSHIP
 ★ Dean’s List, Spring 2024
-★ National Merit Scholar Finalist - 1510/1520 on PSAT (2023) 
+★ National Merit Scholar Finalist (2023) 
 ★ 4th Place, BuildIllinois Hackathon (2023)
-★ AP Scholar with Distinction Award - 5/5 in 9 APs (2021-23)
+★ AP Scholar with Distinction Award (2021-23)
 ★ CS 124H: ASL Classifier, Hall of Fame (2023)
 ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023)
 
