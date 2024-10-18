@@ -72,3 +72,9 @@ ML Projects: Trained and compared Random Forest, Decision Tree, kNN, and SVM mod
 ★ AP Scholar with Distinction Award - 5/5 in 9 APs (2021-23)
 ★ CS 124H: ASL Classifier, Hall of Fame (2023)
 ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023)
+
+## [Read about Blog1!](blog1.md)
+
+## [Read about Blog2!](blog2.md)
+
+## [Contact Me](contact.md)
