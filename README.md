@@ -9,9 +9,10 @@ In my free time, I love traveling, playing basketball with my friends, making mu
 
 # EDUCATION
 ## University of Illinois Urbana-Champaign 
-(GPA 3.9), 2023 - 2027
-Bachelor of Science in Computer Science, Grainger College of Engineering 
-Cupertino High School   (GPA 4.0, SAT  1590/1600)                          					           2019 - 2023
+
+Bachelor of Science in Computer Science, Grainger College of Engineering, (GPA 3.9), 2023 - 2027
+
+Cupertino High School (GPA 4.0, SAT  1590/1600), 2019 - 2023
 
 # NOTABLE COURSES
 2024 Fall: ● CS 225: Data Structures ● CS 233: Computer Architecture ● CS 357: Numerical Methods I
