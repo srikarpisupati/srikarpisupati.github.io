@@ -78,8 +78,8 @@ Implemented code for the following (with Python, Pandas, NumPy, Scikit-learn, Se
 | ★ 4th Place, BuildIllinois Hackathon (2023) | ★ AP Scholar with Distinction Award (2021-23) |
 | ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) |
 
-#### [Read about Blog1!](blog1.md)
+#### [Read about FairShare!](FairShare.md)
 
-#### [Read about Blog2!](blog2.md)
+#### [Read about my Ideas!](Ideas.md)
 
 #### [Contact Me](contact.md)
