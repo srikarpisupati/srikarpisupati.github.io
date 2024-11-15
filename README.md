@@ -8,9 +8,9 @@ I've worked with a variety of languages, including C++, Python, Java, and Swift.
 I love traveling, playing basketball with my friends, making music, and watching movies :)
 
 -------
+#### [Read about FairShare!](FairShare.md)
 
-
-# Srikar P
+# Who am I?
 
 ### EDUCATION
 
@@ -77,8 +77,6 @@ Implemented code for the following (with Python, Pandas, NumPy, Scikit-learn, Se
 | ★ Dean’s List, Spring 2024 | ★ National Merit Scholar Finalist (2023) |
 | ★ 4th Place, BuildIllinois Hackathon (2023) | ★ AP Scholar with Distinction Award (2021-23) |
 | ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) |
-
-#### [Read about FairShare!](FairShare.md)
 
 #### [Read about my Ideas!](Ideas.md)
 
