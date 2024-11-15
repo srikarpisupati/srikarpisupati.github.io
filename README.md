@@ -8,7 +8,7 @@ I've worked with a variety of languages, including C++, Python, Java, and Swift.
 I love traveling, playing basketball with my friends, making music, and watching movies :)
 
 -------
-#### [Read about FairShare!](FairShare.md)
+#### [My first blog post: Read about FairShare!](FairShare.md)
 
 # Who am I?
 
