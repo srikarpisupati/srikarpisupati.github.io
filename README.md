@@ -27,7 +27,7 @@ C++, Python, Java, Swift, Firebase, NumPy, Git, Pandas, Matplotlib, Seaborn, Sci
 
 ### PROJECTS & HACKATHONS
 
-Can be found at my [github](github.com/srikarpisupati)
+Can be found at my GitHub: github.com/srikarpisupati
 
 #### FinWise — A Portfolio Manager &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2024 - Present
 * Developed Flask-based backend REST API to deliver investment portfolio analysis using fine-tuned Llama model 
