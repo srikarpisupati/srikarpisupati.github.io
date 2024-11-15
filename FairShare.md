@@ -32,7 +32,7 @@ Round Robin Algorithm: Ensures EF1 but sacrifices Pareto Optimality.
 
 As part of the iOS team, our initial prototype was built entirely in Xcode, running brute-force algorithms to compute optimal allocations. These computations explored all permutations of allocations—a functional but computationally expensive method. In addition, we made it so that users of the app only needed one device, where everyone inputs their names, and each person gets to input their valuations and receive an allocation. 
 
-To scale and improve efficiency, we decided to use:
+In our next iteration, to scale and improve efficiency, we decided to use:
 
 Firebase: We integrated Firestore (NoSQL) to support multi-device syncing and privacy. Each session stored user data, group membership, and valuations securely.
 
@@ -45,6 +45,7 @@ My favorite addition, which I helped ideate, involved building the Sessions feat
 
 Working alongside a Ph.D. student and other undergrads was an invaluable learning experience. Collaborating across disciplines and platforms taught me not only about algorithms but also about the nuances of teamwork.
 
+I learned a lot about the research process, where we are not operating to make a profit but to build something better. I was able to apply something I learned from an article I had read about R&D: because research takes time, it is important to get iterations out to the consumer, in order to both measure progress as well as focus efforts towards solving a real problem. Because we made risky and novel decisions, such as implementing the Sessions feature, we were able to make a more accessible and secure app. 
 
 ## Obstacles
 
@@ -74,7 +75,7 @@ By embedding fairness into these domains, FairShare showcases the transformative
 
 Reflecting on the project, several avenues for improvement come to mind.
 
-### Advanced Algorithms:
+### More Advanced Algorithms:
 
 Reinforcement Learning (RL): Training an RL agent to learn optimal allocation strategies could balance fairness and efficiency dynamically.
 
@@ -83,8 +84,10 @@ Neural Networks: Leveraging neural networks to predict user preferences and expe
 Generalized Envy Graph Algorithms: A deeper exploration of these algorithms could improve fairness guarantees.
 
 ### We are planning on running User Experience Enhancements:
-Allowing users to simulate different scenarios to understand allocation outcomes before finalizing inputs.
+Allowing users to understand allocation outcomes before finalizing inputs.
 Adding visualizations of envy graphs or Pareto frontiers for educational purposes.
+
+As I learned in one of my classes, BADM 261, this data will allow us to build a better product.  By collecting user data, we will be able to interpret it for product development, allowing us to help users make better decisions. 
 
 
 ### Scalability Improvements:
