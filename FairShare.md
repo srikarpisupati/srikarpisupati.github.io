@@ -42,7 +42,6 @@ SciPy: Utilized SciPy's Linear Programming (LP) solver and Min Weight Bipartite 
 
 My favorite addition, which I helped ideate, involved building the Sessions feature. We used firebase to allow users to sync multiple devices. This allowed for more privacy, since only they could see their valuations for each good and users wouldn't be influenced. 
 
-
 Working alongside a Ph.D. student and other undergrads was an invaluable learning experience. Collaborating across disciplines and platforms taught me not only about algorithms but also about the nuances of teamwork.
 
 I learned a lot about the research process, where we are not operating to make a profit but to build something better. I was able to apply something I learned from an article I had read about R&D: because research takes time, it is important to get iterations out to the consumer, in order to both measure progress as well as focus efforts towards solving a real problem. Because we made risky and novel decisions, such as implementing the Sessions feature, we were able to make a more accessible and secure app. 
@@ -55,7 +54,7 @@ User Privacy: Ensuring that individual valuations remained private was critical.
 
 Cross-Platform Consistency: Coordinating development between iOS and Android required careful design to ensure a uniform user experience.
 
-Algorithm Complexity: Concepts like EF1 and Nash Social Welfare are mathematically intricate. Balancing theoretical rigor with practical efficiency required constant iteration and testing.
+Algorithm Complexity: Concepts like EF1 and Nash Social Welfare are mathematically intricate. Balancing theory with practical efficiency required constant iteration and testing.
 
 ## Applications and Impact
 
@@ -67,31 +66,30 @@ Resource Allocation: Allocating computational resources in cloud services or ban
 
 Distributed Systems: Algorithms like EF1 and Nash Welfare can enhance fairness in federated learning or distributed AI training.
 
-Conflict Resolution: Fair division models can help mediate disputes over shared resources, from international water rights to local community budgeting.
+Conflict Resolution: Fair division models can help mediate disputes over shared resources, from international water rights to local community budgets.
 
-By embedding fairness into these domains, FairShare showcases the transformative potential of equitable algorithms.
+In these ways, FairShare showcases the potential of equitable algorithms.
 
 ## What Could Be Done Differently
 
-Reflecting on the project, several avenues for improvement come to mind.
+Reflecting on the project, there are several avenues for improvement.
 
 ### More Advanced Algorithms:
 
-Reinforcement Learning (RL): Training an RL agent to learn optimal allocation strategies could balance fairness and efficiency dynamically.
+Reinforcement Learning (RL): We could train an RL agent to learn optimal allocation strategies, balancing fairness and efficiency.
 
-Neural Networks: Leveraging neural networks to predict user preferences and expedite allocations in large-scale problems.
+Neural Networks: We could leverage neural networks to predict user preferences and expedite allocations in large-scale problems.
 
 Generalized Envy Graph Algorithms: A deeper exploration of these algorithms could improve fairness guarantees.
+
+### Scalability Improvements:
+Exploring distributed computing frameworks like Apache Spark to handle larger datasets and computations in real-time.
 
 ### We are planning on running User Experience Enhancements:
 Allowing users to understand allocation outcomes before finalizing inputs.
 Adding visualizations of envy graphs or Pareto frontiers for educational purposes.
 
 As I learned in one of my classes, BADM 261, this data will allow us to build a better product.  By collecting user data, we will be able to interpret it for product development, allowing us to help users make better decisions. 
-
-
-### Scalability Improvements:
-Exploring distributed computing frameworks like Apache Spark to handle larger datasets and computations in real-time.
 
 ## Conclusion
 
