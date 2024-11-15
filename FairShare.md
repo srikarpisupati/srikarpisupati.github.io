@@ -6,7 +6,7 @@ The Fair Division Problem is a fascinating blend of mathematics, computer scienc
 
 In everyday life, this problem manifests in many ways: splitting rent among roommates, dividing tasks in a group project, or allocating limited resources in a company. FairShare aims to ensure fairness and mitigate pain points when making decisions about resources or tasks.
 
-This project’s mathematical backbone—concepts like Pareto Optimality, Nash Social Welfare, and Envy Freeness—revealed the elegance and complexity of equitable resource allocation. By integrating algorithms with user-friendly technology, FairShare seeks to bridge the gap between theory and practical application.
+This project’s mathematical backbone—concepts like Pareto Optimality, Nash Social Welfare, and Envy Freeness—reveal the complexity of equitable resource allocation. By integrating algorithms with user-friendly technology, FairShare seeks to bridge the gap between theory and practical application.
 
 ## Background
 
