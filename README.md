@@ -9,6 +9,7 @@ I love traveling, playing basketball with my friends, making music, and watching
 
 -------
 #### [My first blog post: Read about FairShare!](FairShare.md)
+#### [Read my second blog post: How should AI be used in the future?!](AI4Business.md)
 
 # Who am I?
 
@@ -77,7 +78,5 @@ Implemented code for the following (with Python, Pandas, NumPy, Scikit-learn, Se
 | ★ Dean’s List, Spring 2024 | ★ National Merit Scholar Finalist (2023) |
 | ★ 4th Place, BuildIllinois Hackathon (2023) | ★ AP Scholar with Distinction Award (2021-23) |
 | ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) |
-
-#### [Read about my Ideas!](Ideas.md)
 
 #### [Contact Me](contact.md)
