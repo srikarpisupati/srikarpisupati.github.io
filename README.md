@@ -1,4 +1,6 @@
 
+# Srikar Pisupati
+
 Hello!
 
 My name is Srikar, and I am a CS student from the Bay Area. I’m an eager learner and I love building tech that solves real-life problems.
@@ -7,11 +9,13 @@ I've worked with a variety of languages, including C++, Python, Java, and Swift.
 
 I love traveling, playing basketball with my friends, making music, and watching movies :)
 
--------
-#### [My first blog post: Read about FairShare!](FairShare.md)
-#### [Read my second blog post: How should AI be used in the future?!](AI4Business.md)
+[Who am I](#who-am-i)
 
-# Who am I?
+[My Blog Posts](#my-blog-posts)
+
+-------
+
+## Who am I
 
 ### EDUCATION
 
@@ -30,12 +34,11 @@ C++, Python, Java, Swift, Firebase, NumPy, Git, Pandas, Matplotlib, Seaborn, Sci
 
 Can be found at my GitHub: github.com/srikarpisupati
 
-#### FinWise — A Portfolio Manager &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2024 - Present
-* Developed Flask-based backend REST API to deliver investment portfolio analysis using fine-tuned Llama model 
-* Integrated 10+ market categories from Yahoo Finance (e.g., stock data, news) alongside 4 user inputs (e.g., investment goals)
-* Designed SQLite database to manage user portfolios from dynamic HTML inputs
+#### [FinWise](https://srikarpisupati.github.io/Finwise.pdf) — A Portfolio Manager &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2024 - Present
+* Developed Flask-based REST APIs to deliver investment portfolio analysis using FinGPT Dow30 model (PEFT) 
+* Fetched Yahoo Finance data (stock data, news) and created prompts to generate stock analysis & predictions
 
-#### FairShare — Undergraduate Research &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2024 - Present
+#### [Fair Share](https://srikarpisupati.github.io/FairShare.html) — Undergraduate Research &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2024 - Present
 * Researched fair-division algorithms to optimally allocate indivisible resources, given individual preferences
 * Developed a user-friendly iOS app (Swift, Cloud Functions) to compute allocations, maximizing Nash Welfare
 * Implemented SciPy’s LP and Min Weight Bipartite Matching algorithms, tested performance with synthetic data
@@ -75,8 +78,17 @@ Implemented code for the following (with Python, Pandas, NumPy, Scikit-learn, Se
 
 | | |
 |--|--|
-| ★ Dean’s List, Spring 2024 | ★ National Merit Scholar Finalist (2023) |
-| ★ 4th Place, BuildIllinois Hackathon (2023) | ★ AP Scholar with Distinction Award (2021-23) |
-| ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) |
+| ★ [AURA](https://srikarpisupati.github.io/AURA.pdf): Disaster Analytics (1st place, Dec 2024) | ★ Dean’s List, Spring 2024 |
+| ★ Iline: BuildIllinois Hackathon (4th place, 2023) | ★ National Merit Scholar Finalist (2023) |
+| ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ AP Scholar with Distinction Award (2021-23) |
+|  | ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) |
 
 #### [Contact Me](contact.md)
+
+-------
+
+## My Blog Posts
+
+#### [Read about FairShare!](FairShare.md)
+#### [How should AI be used in the future?!](AI4Business.md)
+
