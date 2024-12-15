@@ -41,7 +41,7 @@ Can be found at my GitHub: github.com/srikarpisupati
 #### [Fair Share](https://srikarpisupati.github.io/FairShare.html) — Undergraduate Research &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2024 - Present
 * Researched fair-division algorithms to optimally allocate indivisible resources, given individual preferences
 * Developed a user-friendly iOS app (Swift, Cloud Functions) to compute allocations, maximizing Nash Welfare
-* Implemented SciPy’s LP and Min Weight Bipartite Matching algorithms, tested performance with synthetic data
+* Implemented SciPy’s _LP_ and _Min Weight Bipartite Matching_ algorithms, tested performance with synthetic data
 * Used Firestore (NoSQL) to store users, devices & groups. Supported group membership using invitation codes.
 
 #### CrowdCompute — HackIllinois Hackathon &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Feb 2024
