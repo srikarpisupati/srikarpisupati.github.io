@@ -9,7 +9,7 @@ I've worked with a variety of languages, including C++, Python, Java, and Swift.
 
 I love traveling, playing basketball with my friends, making music, and watching movies :)
 
-[Who am I | Resume](SrikarPisupati.md)
+[Who am I / Resume](SrikarPisupati.md)
 
 ## My Blog Posts
 
