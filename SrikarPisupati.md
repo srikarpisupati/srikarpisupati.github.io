@@ -36,7 +36,7 @@ Can be found at my GitHub: github.com/srikarpisupati
 * Implemented SciPy’s _LP_ and _Min Weight Bipartite Matching_ algorithms, tested performance with synthetic data
 * Used Firestore (NoSQL) to store users, devices & groups. Supported group membership using invitation codes.
 
-#### CrowdCompute — HackIllinois Hackathon &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Feb 2024
+#### [CrowdCompute](https://devpost.com/software/crowdcompute-nyz3hg) — HackIllinois Hackathon &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Feb 2024
 * Built a web application using React, facilitating the training of ML models on remote (Docker) machines
 * Responsible for backend data storage using Firebase, managing host machine metadata, model files & weights
 
