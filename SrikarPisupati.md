@@ -26,11 +26,11 @@ C++, Python, Java, Swift, Firebase, NumPy, Git, Pandas, Matplotlib, Seaborn, Sci
 
 Can be found at my GitHub: github.com/srikarpisupati
 
-#### [FinWise](https://srikarpisupati.github.io/Finwise.pdf) — A Portfolio Manager &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2024 - Present
+#### [FinWise](https://srikarpisupati.github.io/Finwise.pdf) — A Portfolio Manager, Software Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2024 - Present
 * Developed Flask-based REST APIs to deliver investment portfolio analysis using FinGPT Dow30 model (PEFT) 
 * Fetched Yahoo Finance data (stock data, news) and created prompts to generate stock analysis & predictions
 
-#### [Fair Share](https://srikarpisupati.github.io/FairShare.html) — Undergraduate Research &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2024 - Present
+#### [Fair Share](https://srikarpisupati.github.io/FairShare.html) — Undergraduate Research, Software Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2024 - Present
 * Researched fair-division algorithms to optimally allocate indivisible resources, given individual preferences
 * Developed a user-friendly iOS app (Swift, Cloud Functions) to compute allocations, maximizing Nash Welfare
 * Implemented SciPy’s _LP_ and _Min Weight Bipartite Matching_ algorithms, tested performance with synthetic data
