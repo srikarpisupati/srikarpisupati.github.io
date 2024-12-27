@@ -9,23 +9,29 @@ I've worked with a variety of languages, including C++, Python, Java, and Swift.
 
 I love traveling, playing basketball with my friends, making music, and watching movies :)
 
-[Who am I](#who-am-i)
+[Who am I | Resume](#srikar-pisupati)
 
 [My Blog Posts](#my-blog-posts)
 
 -------
 
-## Who am I
+## Srikar Pisupati
+
+**[Github](http://github.com/srikarpisupati) | [Resume](https://srikarpisupati.github.io/) | [Devpost](http://devpost.com/srikarp)**
 
 ### EDUCATION
 
-**BS Computer Science**, University of Illinois Urbana-Champaign, Grainger College of Engineering &emsp;&emsp; **2023 - 2027**
+**BS Computer Science & Minor in Statistics**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **2023 - 2026 (exp)**
+<br>&emsp;&emsp;University of Illinois Urbana-Champaign, Grainger College of Engineering
 
 ### NOTABLE COURSES
-_2024 Fall:_ &ensp;&emsp;● CS 225: Data Structures ● CS 233: Computer Architecture ● CS 357: Numerical Methods I
 
-_2024 Spring:_ ● CS 361: Probability & Statistics for CS ● CS 128: Intro to CS II
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ● CS 173: Discrete Structures ● MATH 257: Linear Algebra with Computational Applications
+_2025 Spring:_ ● CS 341: Systems Programming ● CS 411: Database Systems ● STAT 420: Applied Statistics
+
+_2024 Fall:_ &ensp;&emsp;● CS 225: Data Structures (A) ● CS 233: Computer Architecture (A) ● CS 357: Numerical Methods I (A)
+
+_2024 Spring:_ ● CS 361: Probability & Statistics for CS (A) ● CS 128: Intro to CS II (A)
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ● CS 173: Discrete Structures (A) ● MATH 257: Linear Algebra with Computational Applications (A)
   
 ### SKILLS
 C++, Python, Java, Swift, Firebase, NumPy, Git, Pandas, Matplotlib, Seaborn, SciPy (stats, linalg, optimize, sparse.csgraph), iOS, Scikit-Learn, Valgrind, Flask, PyTorch,  LaTex, Android, TensorFlow, OpenCV, MediaPipe, React
@@ -76,7 +82,7 @@ Implemented code for the following (with Python, Pandas, NumPy, Scikit-learn, Se
 
 ### AWARDS & LEADERSHIP
 
-| | |
+|||
 |--|--|
 | ★ [AURA](https://srikarpisupati.github.io/AURA.pdf): Disaster Analytics (1st place, Dec 2024) | ★ Dean’s List, Spring 2024 |
 | ★ Iline: BuildIllinois Hackathon (4th place, 2023) | ★ National Merit Scholar Finalist (2023) |
