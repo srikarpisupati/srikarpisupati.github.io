@@ -12,7 +12,7 @@
 
 ### NOTABLE COURSES
 
-_2025 Spring:_ ● CS 341: Systems Programming ● CS 411: Database Systems ● STAT 420: Applied Statistics
+_2025 Spring:_ ● CS 341: Systems Programming ● CS 446: Machine Learning ● CS 411: Database Systems ● STAT 420: Applied Statistics
 
 _2024 Fall:_ &ensp;&emsp;● CS 225: Data Structures (A) ● CS 233: Computer Architecture (A) ● CS 357: Numerical Methods I (A)
 
