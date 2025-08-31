@@ -81,6 +81,7 @@ Can be found at my GitHub: github.com/srikarpisupati
 | ★ [AURA](https://srikarpisupati.github.io/AURA.pdf): Disaster Analytics (1st place, Dec 2024) | ★ Dean’s List, Spring 2024, Fall 2024, Spring 2025 |
 | ★ Iline: BuildIllinois Hackathon (4th place, 2023) | ★ National Merit Scholar Finalist (2023) |
 | ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ AP Scholar with Distinction Award (2021-23) |
-|  | ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) | ★ CS 341 Course Assistant | ★ Project: Code Outreach Director |
+| ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) | ★ CS 341 Course Assistant | 
+| ★ Project: Code Outreach Director |
 
 #### [Contact Me](contact.md)
