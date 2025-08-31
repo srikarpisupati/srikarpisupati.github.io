@@ -26,7 +26,7 @@ C/C++, Python, Java, Swift, SQL, R, Verilog, AWS Lambda, Bedrock, Athena, S3, Dy
 
 ### INTERNSHIPS
 
-#### [Amazon Web Services] - Software Development Engineer Intern                                                       May 2025 - Aug 2025
+#### [Amazon Web Services] - Software Development Engineer Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; May 2025 - Aug 2025
 
 * Built a Streamlit web app to generate dashboards from natural language or SQL queries on S3-hosted datasets
 * Designed serverless backend for event -driven query execution and chart recommendation service ( <10s SLO)
