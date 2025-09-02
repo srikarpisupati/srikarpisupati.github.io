@@ -64,6 +64,7 @@ One weakness of DeepSeek V3 is that these systems improvements could have been a
 
 ## Room for improvement
 
-One scope for improvement could be to apply the Auxiliary loss free load balancing beyond Mixture-of-Experts, and have a Mixture-of-Models, where each model
-is a Small Language Model that is best at a certain domain. This technique could also use shortest majority vote to quickly output tokens (along with 
-inference-time scaling).
+In order to boost efficient reasoning on specific domains (which is very relevant for agents), small language models can be post-trained. 
+One scope for improvement could be to apply the Auxiliary-loss-free load balancing beyond Mixture-of-Experts, and have a Mixture-of-Models, where 
+each model is a Small Language Model that is best at a certain domain. During inference, this technique could also use shortest majority vote to quickly 
+output tokens. Finally, inference-time scaling can be used to provide compute for both these reasoning SLMs.
