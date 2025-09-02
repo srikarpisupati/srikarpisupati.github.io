@@ -1,1 +1,68 @@
+# DeepSeek-V3 Technical Report Paper Summary
 
+## What is the problem the paper is trying to solve?
+
+The main problem this paper is trying to solve is to create a Large Language Model that performs well on established benchmarks. The goal is
+to make it so that the model is also economical to train and use in inference, since the model is open weights. This solution is important because it is 
+found that this model (being open-source) performs better than other open-source models. (economical cost of only 2.664M H800 GPU hours).
+
+## The main idea
+The paper presents a language model (671 billion parameters) that is based on Mixture-of-Experts. This model builds upon the previous iteration of DeepSeek V2,
+which uses Multi-head Latent Attention (low-rank KV cache per attention head). 
+
+The major improvements compared to previous iterations are:
+1) Auxiliary-Loss-Free Load Balancing
+2) Node-limited routing
+3) Multi-token prediction training
+4) FP8 Mixed Precision Training
+5) DualPipe for efficient pipeline parallelism
+6) Efficient cross-node all-to-all communication
+
+## Purpose of design components and techniques
+
+### Auxiliary-Loss-Free Load Balancing: 
+The reason for Load Balancing is to balance expert accesses. Experts need to be balanced in order to avoid routing collapse. In addition, load balancing 
+helps improve computational efficiency for expert parallelism (the whole expert is handled by 1 GPU). One solution to this problem is auxiliary loss. 
+Auxiliary loss adds an additional reward/penalty for balancing experts. However, this paper found that this could harm model performance. Their new solution
+is to introduce a bias term used only for routing. 
+
+### Node-limited routing: 
+To limit communication costs during training, "ensure that each token will be sent to at most 𝑀 nodes, which are selected according 
+to the sum of the highest 𝐾𝑟/𝑀 affinity scores of the experts distributed on each node". In other words, the communication costs will be kept in check. 
+
+### Multi-token prediction training: 
+Instead of parallely predicting additional tokens using independent output heads, this paper presents a way to sequentially predict additional tokens and
+keep the complete causal chain at each prediction depth.
+
+### FP8 mixed precision training
+Memory is often the bottleneck, and this technique helps avoid that. The way to do this is by quantizing smaller chunks instead of entire tensors into FP8.
+Another method that was used is Online quantization, or calculating scaling factors on the fly. Master weights are still FP32 to maintain stability, 
+and communication is done in BF16.
+
+The researchers were able to validate its effectiveness on an extremely large-scale model. This ultimately optimized the memory footprint.
+
+### DualPipe:
+An algorithm for efficient pipeline parallelism that hides most of the communication during training through computation-communication overlap. This 
+solves issues arising from cross-node expert parallelism. How this works is it overlaps forward/backward computation with communication.
+
+### Efficient cross-node all-to-all communication kernels:
+These were used to fully utilize InfiniBand (IB) and NVLink bandwidths, and overcome the communication bottleneck in cross-node MoE training using 
+near full computation-communication overlap. Each token is limited to be dispatched to at most 4 nodes, then instantaneously the specific GPU 
+hosting the expert. This was built using NVLink, IB. 
+
+On top of these techniques, the researchers used Supervised Fine-Tuning and Reinforcement Learning.
+
+### Deployment stages:
+Prefilling: redundant experts, which duplicates high-load experts and deploys them redundantly
+Decoding: Shared expert always selected (high-load)
+
+## Strengths and Weaknesses
+
+The paper had multiple strengths. It showed that using DualPipe to overlap computation and communication made it so that training this model did not 
+need so many GPU hours. It also showed that load balancing does not necessarily require auxiliary loss.
+
+## Room for improvement
+
+One scope for improvement could be to apply the Auxiliary loss free load balancing beyond Mixture-of-Experts, and have a Mixture-of-Models, where each model
+is a Small Language Model that is best at a certain domain. This technique could also use shortest majority vote to quickly output tokens (along with 
+inference-time scaling).
