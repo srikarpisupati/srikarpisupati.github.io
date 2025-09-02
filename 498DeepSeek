@@ -60,6 +60,7 @@ Decoding: Shared expert always selected (high-load)
 
 The paper had multiple strengths. It showed that using DualPipe to overlap computation and communication made it so that training this model did not 
 need so many GPU hours. It also showed that load balancing does not necessarily require auxiliary loss.
+One weakness of DeepSeek V3 is that these systems improvements could have been applied to post-training as well, in order to boost reasoning and alignment.
 
 ## Room for improvement
 
