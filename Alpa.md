@@ -34,21 +34,24 @@ on each stage-mesh pair, to receive the execution cost of that assignment. The i
 combination by minimizing execution cost using Integer Linear Programming (ILP). 
 
 The space that the intra-op pass optimizes on is the space of possible parallel algorithms for a given operator, as different parallel algorithms result in 
-different computation/communication ratios and operator layouts. One key assumption that intra-op parallelism makes is that devices within a mesh have the same compute capability, so that Alpa can partition operators evenly among 
-devices SPMD-style. 
+different computation/communication ratios and operator layouts. One key assumption that intra-op parallelism makes is that devices within a mesh have the same compute capability, so that Alpa can partition operators evenly among devices SPMD-style. One key assumption that Alpa makes about intra-operator parallelism is that each mesh of devices contains devices that have the same compute capability. 
 
-The ILP formulation takes into account computation and communication costs, as well as 
+The ILP formulation takes into account computation and communication costs. Also, computationally trivial operations are merged into single operations, reducing size of the computation graph and making parsing faster. After this, communication optimizations are selected such as replacing all-reduce with reduce-scatter and all-gather. 
+
+This ILP optimization eventually gets us to the minimum latency of executing a stage (slice of operators from graph) on a given submesh of devices. The inter-op Dynamic Programming formulation aims to minimize the total minimum latency for the entire computation graph, while adding 2 constraints:
+1) for an operator in the forward pass, colocate it with corresponding backward pass on same submesh
+2) sliced submeshes should fully cover the cluster mesh without wasting compute resources.
+
+This finds the optimal substructure/division of work across submeshes. 
 
 
 ## Technical Limitations
 
-One key assumption that Alpa makes about intra-operator parallelism is that each mesh of devices contains devices that have the same compute capability. 
-Also, for smaller/easier problems, the overhead of computing and optimizing all possible layouts is not worth quick manual algorithm selection. 
+For smaller/easier problems, the overhead of computing and optimizing all possible layouts is not worth quick manual algorithm selection. 
 
 ## How to improve limitations
 
-
-
+These issues can be solved by expanding the framework to allow dynamic execution plans, such that they can adapt to changing workloads.
 
 
 
