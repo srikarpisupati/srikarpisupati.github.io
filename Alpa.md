@@ -47,13 +47,11 @@ This finds the optimal substructure/division of work across submeshes.
 
 ## Technical Limitations
 
-For smaller/easier problems, the overhead of computing and optimizing all possible layouts is not worth quick manual algorithm selection. 
+For smaller/easier problems, the overhead of computing and optimizing all possible layouts is not worth quick manual algorithm selection.
+
+Also, Alpa assumes that all GPUs in a mesh are homogeneous, although this is always not the case.
 
 ## How to improve limitations
 
 These issues can be solved by expanding the framework to allow dynamic execution plans, such that they can adapt to changing workloads.
-
-
-
-
-
+Also, to handle heterogeneous GPU meshes, it could be possible that the allocation model doesn't split evenly across devices, but instead splits based on the expected performance of a device.
