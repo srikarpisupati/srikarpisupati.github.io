@@ -51,6 +51,8 @@ For smaller/easier problems, the overhead of computing and optimizing all possib
 
 Also, Alpa assumes that all GPUs in a mesh are homogeneous, although this is always not the case.
 
+Finally, Alpa introduces cold starts due to its complexity
+
 ## How to improve limitations
 
 These issues can be solved by expanding the framework to allow dynamic execution plans, such that they can adapt to changing workloads. For example, with dynamic schedules we can parallelize different branches in a computation graph. 
@@ -58,3 +60,5 @@ Also, to handle heterogeneous GPU meshes, it could be possible that the allocati
 
 Some other improvements that can be made:
 1) Adding mini-batch size as a parameter to be searched for.
+
+Finally, Alpa can be adapted to be used for any computation graphs, including RLHF workloads.
