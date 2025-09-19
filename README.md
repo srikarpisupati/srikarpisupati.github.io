@@ -17,4 +17,5 @@ I love traveling, playing basketball with my friends, making music, and watching
 #### [How should AI be used in the future?](AI4Business.md)
 #### [DeepSeek V3 Technical Report Summary](498DeepSeek.md)
 #### [Llama-RL Paper Summary](LlamaRL.md)
+#### [ALPA Paper Summary](Alpa.md)
 
