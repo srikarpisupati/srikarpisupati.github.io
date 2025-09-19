@@ -53,5 +53,8 @@ Also, Alpa assumes that all GPUs in a mesh are homogeneous, although this is alw
 
 ## How to improve limitations
 
-These issues can be solved by expanding the framework to allow dynamic execution plans, such that they can adapt to changing workloads.
+These issues can be solved by expanding the framework to allow dynamic execution plans, such that they can adapt to changing workloads. For example, with dynamic schedules we can parallelize different branches in a computation graph. 
 Also, to handle heterogeneous GPU meshes, it could be possible that the allocation model doesn't split evenly across devices, but instead splits based on the expected performance of a device.
+
+Some other improvements that can be made:
+1) Adding mini-batch size as a parameter to be searched for.
