@@ -12,13 +12,13 @@ I love traveling, playing basketball with my friends, making music, and watching
 [Who am I / Resume](SrikarPisupati.md)
 
 ## My Blog Posts
-### Projects
-#### [Read about FairShare!](FairShare.md)
-### Opinions
-#### [How should AI be used in the future?](AI4Business.md)
 ### Paper Summaries
 #### [DeepSeek V3 Technical Report](498DeepSeek.md)
 #### [Llama-RL LlamaRL: A Distributed Asynchronous Reinforcement Learning Framework for Efficient Large-scale LLM Training](LlamaRL.md)
 #### [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](Alpa.md)
 #### [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](ZeRO.md)
 
+### Projects
+#### [Read about FairShare!](FairShare.md)
+### Opinions
+#### [How should AI be used in the future?](AI4Business.md)
