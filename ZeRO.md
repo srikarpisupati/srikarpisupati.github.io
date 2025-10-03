@@ -54,6 +54,9 @@ Memory-communication tradeoff: The researchers showed that using Optimizer State
 
 Also, at extremely large model sizes, activation checkpointing can be a bottleneck (requires reassembling the entire model). 
 
+Heterogenous requirements:
+1) heterogenous GPU communication
+2) heterogenous workloads (earlier gradients larger)
 # How to improve them?
 
 However, this can be made even more efficient by overlapping computation and communication, or making parameter preloading asynchronous. Other methods to make the communication time faster are quantization and topology-aware scheduling. 
