@@ -7,14 +7,9 @@ and it would be very helpful to have a technique that allows inference for large
 Speculative Decoding aims to solve this problem by generating or computing tokens in parallel. This is done without changing the model architecture, without 
 needing to retrain the model, and without changing the model output distribution. 
 
-The general idea of speculative execution is that a task is performed in parallel to verify if it is actually needed. The main problem to solve here is creating
-an efficient mechanism to suggest tasks that are likely to be needed. 
+The general idea of speculative decoding is that token generation is performed in parallel to verify if it is actually needed. The main problem to solve here is creating an efficient mechanism to suggest tokens that are likely to be needed. 
 
-All we need to do to turn speculative execution into speculative decoding, is to turn the task into "generating tokens". :)
-
-The researchers sampled generations from efficient "approximation models" instead of the slower "target models". The sampling method, speculative sampling, 
-is used to maximize the probability of speculative tasks to be accepted (by the target model), while also ensuring that the outputs from the overall system have
-the same distribution as those from just the target model. 
+To do this, the researchers sampled generations from efficient "approximation models" instead of the slower "target models". The sampling method, speculative sampling, is used to maximize the probability of speculative tasks to be accepted (by the target model), while also ensuring that the outputs from the overall system have the same distribution as those from just the target model. 
 
 The target model is only used to generate tokens if it decides to reject and correct the speculated tokens. The main purpose of the target model is to evaluate
 the guessed tokens from the approximation model in parallel. It will accept if the guessed token *can* lead to an identical target distribution, and then sample
