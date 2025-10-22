@@ -29,8 +29,8 @@ Finally, one fact is that this relies on concurrent execution, which may not alw
 # How will you improve them?
 If system capacity has been reached, it may be more efficient to allocate all compute for the target model for reliable token generation instead of speculating
 with an approximate model that may fail. 
-Also, in order to improve the approximate model, it may be worth to train it separately instead of using a static model. 
+Also, in order to improve the approximate model, it may be worth to train it separately instead of using a static model. This could also be done to tradeoff loss to speed.
 Furthermore, the paper mentioned that we would need to fix the number of tokens to speculate. This could be chosen dynamically - if there is a lower chance of acceptance, it may be better to lower the number of parallel speculative guesses, and vice versa. 
-Finally, it could be a good idea to not just have 1 approximate model, but dynamically choose from a set of >1 models. This could also benefit from a heirarchical setup, where the approximation model has an even faster approximation model. 
+Finally, it could be a good idea to not just have 1 approximate model, but dynamically choose from a set of >1 models. This could also benefit from a heirarchical setup, where the approximation model has an even faster approximation model. This could be done parallelly. 
 
 In the future, this paper could not just be applied to autoregressive models, but also to any situation where we can more efficiently approximate a system's behavior using a smaller model, and run it in parallel. 
