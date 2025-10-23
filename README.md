@@ -18,6 +18,7 @@ I love traveling, playing basketball with my friends, making music, and watching
 #### [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](Alpa.md)
 #### [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](ZeRO.md)
 #### [Fast Inference from Transformers via Speculative Decoding](SpeculativeDecoding.md)
+#### [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](DistServe.md)
 
 ### Projects
 #### [Read about FairShare!](FairShare.md)
