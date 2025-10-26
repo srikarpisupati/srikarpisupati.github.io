@@ -1,5 +1,5 @@
-
 # LlamaRL Paper Summary
+Paper: https://arxiv.org/abs/2505.24034
 
 ## What is the problem the paper is trying to solve?
 This paper introduces a fully distributed, asynchronous RL training framework for efficient and large-scale LLM training on large GPU clusters. This is used to manage policy models with hundreds of billions of parameters, which are used to improve LLM capabilities. This framework empirically and theoretically leads to speed-ups. 
