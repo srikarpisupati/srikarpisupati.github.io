@@ -1,4 +1,5 @@
 # DeepSeek-V3 Technical Report Paper Summary
+Paper: https://arxiv.org/abs/2412.19437
 
 ## What is the problem the paper is trying to solve?
 
