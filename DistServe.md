@@ -1,3 +1,6 @@
+# DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving
+Paper: https://arxiv.org/abs/2401.09670
+
 # What is the problem, and why is it important?
 An LLM service responds to a query in two phases: prefill and decoding. Prefill processes the user's prompt to generate the first token of the response in one
 step. The decoding phase sequentially generates subsequent tokens, with each decoding step generating a new token based on previously generated tokens. This 
