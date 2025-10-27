@@ -1,3 +1,6 @@
+# Fast Inference from Transformers via Speculative Decoding
+Paper: https://arxiv.org/abs/2211.17192
+
 # What is the problem, and why is it important?
 A critical fact about Transformer models, or any autoregressive model, is that during inference, decoding or generating K tokens will take K serial runs of the
 model. This can be very slow. One alternative could be to use a smaller model, making K serial runs slightly faster. However, large models are much more capable,and it would be very helpful to have a technique that allows inference for large models to be fast.
