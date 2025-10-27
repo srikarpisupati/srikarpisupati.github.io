@@ -1,3 +1,6 @@
+# ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
+Paper: https://arxiv.org/abs/1910.02054
+
 # What is the problem, and why is it important?
 
 ZeRO, or Zero Redundancy Optimizer, is a solution to optimize memory in training large deep learning models. 
