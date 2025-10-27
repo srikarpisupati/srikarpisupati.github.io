@@ -1,5 +1,5 @@
-
 # Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning Paper Summary
+Paper: https://arxiv.org/abs/2201.12023
 
 ## What is the problem the paper is trying to solve?
 
