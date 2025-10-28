@@ -19,6 +19,7 @@ I love traveling, playing basketball with my friends, making music, and watching
 #### [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](ZeRO.md)
 #### [Fast Inference from Transformers via Speculative Decoding](SpeculativeDecoding.md)
 #### [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](DistServe.md)
+#### [SGLang: Efficient Execution of Structured Language Model Programs](SGLang.md)
 
 ### Projects
 #### [Read about FairShare!](FairShare.md)
