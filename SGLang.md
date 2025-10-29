@@ -2,9 +2,26 @@
 Paper: https://arxiv.org/abs/2312.07104
 
 # What is the problem, and why is it important?
-LLMs have started to be used as Agents, and this involves capabilities such as multi-round planning, reasoning, and interacting with environments (tool usage).
+LLMs have started to be used as Agents, and this involves capabilities such as multi-round planning, reasoning, and interacting with environments (tool usage). This involves multiple dependent generation steps, and this is handled through an "LM program", which control and schedule these generation steps. They key properties of LM programs are that they intersperse LLM calls with control flow, and they receive and produce structured inputs and outputs. 
+
+However, there is no efficient system to execute these LM programs -- existing systems are too far general and removed from the specific workload to be computation and memory-efficient (no reuse of KV Cache across generation calls, batching across requests with similar structure not fully developed). 
+
+This is an important problem because having efficient ways to integrate LLMs into real world environments is critical. 
 
 # The main proposed idea(s).
+Structured Generation Language offers a way to efficiently execute LM programs. It is made up of a front-end and a back-end. 
+SGLang introduces RadixAttention, which allows reusing KV Cache across multiple generation calls. It also uses a compressed FSM for decoding for structured outputs, like JSON (compile into/represent constraints, allowing decoding of multiple tokens instead of one-at-a-time). Finally, SGLang supports API-only models, and speculative execution for multi-call API model programs. It supports flexible parallelism schemes, disaggregated prefill/decode, continuous batching, load balancing, etc. 
+
+Overall, SGLang achieves 6.4x higher throughput. 
+
 # A summary of your understanding of different components of the proposed technique, e.g., the purpose of critical design choices.
+The frontend provides primitives to allow adding content to the prompt, generation calls, and parallelizing the workflow. This allows users to easily see the full reasoning flow in a multi agent system, for example. 
+
+In the backend runtime, the KV Cache is reused for requests that share a prefix (system prompt in chained generation calls, etc). This is stored in a radix tree, which is specific type of prefix tree, allowing new requests to reuse the KV cache of the longest matching prefix in the tree. This tree has an LRU policy (also ensures to not evict entries used by running requests). This improves throughput. This routing in the prefix tree is done by taking into account which worker has the highest chance of a prefix cache hit. Also in the runtime, parallel branches (many prompts) can be scheduled, using "fork". These parallel generation calls enable speculative execution, with the added bonus of a shared KV cache. Finally, the "rules" regarding what can be decoded are compressed into a finite state automata. This can be thought of as converting a regular expression into a deterministic FSM - it ends up reducing decoding overhead. This has the added benefit of the user not needing to specify the intended output in the prompt - it is encoded into the decoder. Each of these parallel generation processes can use the FSM to decode in parallel. 
+
+SGLang programs can be executed asynchronously, or compiled as computational graphs. 
+
 # What are the technical drawbacks/limitations?
+The prefix tree + KV cache can be a memory bottleneck if it ends up not being used (there are not many requests that have the same system prompt). Also, the FSM approach does not work for user defined structured outputs. 
 # How will you improve them?
+The exact prefix match can be made into a fuzzy prefix match (semantic similarity), and the system could still reuse kernels or attention states. Also, heirarchical caching could be used to avoid memory blowup. Further, an adaptive caching policy could be used -- sometimes, it may just be more efficient to re-compute instead of using the cache if the match is not precise. To make the system even more efficient, this "level of cache match" metric could be used in the load balancer to route based on how much compute is needed. 
