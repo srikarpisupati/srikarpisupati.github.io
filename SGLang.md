@@ -31,4 +31,10 @@ SGLang programs can be executed asynchronously, or compiled as computational gra
 # What are the technical drawbacks/limitations?
 The prefix tree + KV cache can be a memory bottleneck if it ends up not being used (there are not many requests that have the same system prompt). Also, the FSM approach does not work for user defined structured outputs. Finally, there is the possibility of starvation in cache-aware scheduling. 
 # How will you improve them?
-The exact prefix match can be made into a fuzzy prefix match (semantic similarity), and the system could still reuse kernels or attention states. Also, heirarchical caching could be used to avoid memory blowup. Further, an adaptive caching policy could be used -- sometimes, it may just be more efficient to re-compute instead of using the cache if the match is not precise. Also, it may not be worth to cache a short prefix. And, there could be techniques to schedule in a way that maximizes the prefix matches. To make the system even more efficient, this "level of cache match" metric could be used in the load balancer to route based on how much compute is needed. This, along with static optimizations like scheduling and allocating, can help solve the starvation problem. 
+1. The exact prefix match can be made into a fuzzy prefix match (semantic similarity), and the system could still reuse kernels or attention states.
+2. Also, heirarchical caching could be used to avoid memory blowup.
+3. Further, an adaptive caching policy could be used -- sometimes, it may just be more efficient to re-compute instead of using the cache if the match is not precise.
+4. Also, it may not be worth to cache a short prefix.
+5. And, there could be techniques to schedule in a way that maximizes the prefix matches.
+6. Finally, it may be worth it to use the same kernel to avoid loading KV cache, but if we must migrate the KV cache tree across machines, we could do "LATE" scheduling (wait for a busy worker to become available).
+7. To make the system even more efficient, this "level of cache match" metric could be used in the load balancer to route based on how much compute is needed. This, along with static optimizations like scheduling and allocating, can help solve the starvation problem. 
