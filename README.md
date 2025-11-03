@@ -20,6 +20,7 @@ I love traveling, playing basketball with my friends, making music, and watching
 #### [Fast Inference from Transformers via Speculative Decoding](SpeculativeDecoding.md)
 #### [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](DistServe.md)
 #### [SGLang: Efficient Execution of Structured Language Model Programs](SGLang.md)
+#### [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](AWQ.md)
 
 ### Projects
 #### [Read about FairShare!](FairShare.md)
