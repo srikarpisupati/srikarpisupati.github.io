@@ -22,6 +22,7 @@ I love traveling, playing basketball with my friends, making music, and watching
 #### [SGLang: Efficient Execution of Structured Language Model Programs](SGLang.md)
 #### [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](AWQ.md)
 #### [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](Mooncake.md)
+#### [NIRVANA: Approximate Caching for Efficiently Serving Text-to-Image Diffusion Models](NIRVANA.md)
 
 ### Projects
 #### [Read about FairShare!](FairShare.md)
