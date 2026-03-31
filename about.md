@@ -8,22 +8,28 @@ permalink: /about/
 
 ### EDUCATION
 
-**BS Computer Science & Minor in Statistics**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **2023 - 2026 (exp)**
-<br>&emsp;&emsp;University of Illinois Urbana-Champaign, Grainger College of Engineering
+**BS in Computer Science & Minor in Statistics**  
+<br>**2023 - 2026 (exp)**
+<br>University of Illinois Urbana-Champaign, Grainger College of Engineering
 
-### NOTABLE COURSES
+### NOTABLE COURSEWORK
+_2026 Spring:_ ● CS 425: Distributed Systems ● CS 421: Programming Languages and Compilers ● CS 498: Data Management in the Cloud ● STAT 433: Stochastic Processes
 
-_2025 Fall:_ ● CS 374: Intro to Algorithms ● CS 498: Machine Learning Systems ● CS 483: Applied Parallel Programming ● CS 410: Text Information Systems
+_2025 Fall:_ &ensp;&ensp;● CS 374: Intro to Algorithms ● CS 498: Machine Learning Systems ● CS 483: Applied Parallel Programming ● CS 410: Text Information Systems
 
-_2025 Spring:_ ● CS 341: Systems Programming ● CS 446: Machine Learning ● CS 411: Database Systems ● STAT 420: Applied Statistics
+_2025 Spring:_ ● CS 341: Systems Programming ● CS 446: Machine Learning ● CS 411: Database Systems ● STAT 420: Applied Statistics ● CS 211: Ethics
 
-_2024 Fall:_ &ensp;&emsp;● CS 225: Data Structures (A) ● CS 233: Computer Architecture (A) ● CS 357: Numerical Methods I (A)
+_2024 Fall:_ &ensp;&emsp;● CS 225: Data Structures (A) ● CS 233: Computer Architecture (A) ● CS 357: Numerical Methods I (A) ● STAT 400: Intro to Statistics (A) ● BADM 261: Technology & Management Seminar
 
 _2024 Spring:_ ● CS 361: Probability & Statistics for CS (A) ● CS 128: Intro to CS II (A)
 <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ● CS 173: Discrete Structures (A) ● MATH 257: Linear Algebra with Computational Applications (A)
   
 ### SKILLS
-C/C++, Python, Java, Swift, SQL, R, Verilog, AWS Lambda, Bedrock, Athena, S3, DynamoDB, CDK, GCP BigQuery, NumPy, Pandas, Matplotlib, Seaborn, SciPy (stats, linalg, optimize, sparse.csgraph), Scikit-Learn, Valgrind, Flask, Firebase, PyTorch, HuggingFace, LaTex, iOS, Android, TensorFlow, OpenCV, MediaPipe, React, Git
+#### Languages: C/C++, Python, Java, CUDA, Go, Swift, SQL, R, Verilog, Haskell
+#### Cloud: AWS Lambda, Bedrock, Athena, S3, DynamoDB, CDK, GCP BigQuery, Firebase
+#### Platforms: iOS, Android, React, Flask
+#### ML Tools: NumPy, PyTorch, Pandas, Matplotlib, SciPy (stats, linalg, optimize, sparse.csgraph), Scikit-Learn, HuggingFace, Seaborn, TensorFlow, OpenCV, MediaPipe
+#### Misc: Git, LaTex, Valgrind
 
 ### INTERNSHIPS
 
@@ -41,11 +47,11 @@ Skills: AWS Lambda, Amazon Bedrock ( Claude 3.5), API Gateway, Athena, S3, Dynam
 
 Can be found at my GitHub: github.com/srikarpisupati
 
-#### [FinWise](https://srikarpisupati.github.io/Finwise.pdf) — A Portfolio Manager, Software Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2024 - Present
+#### [FinWise](https://srikarpisupati.github.io/Finwise.pdf) — A Portfolio Manager, Software Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2024 - Dec 2024
 * Developed Flask-based REST APIs to deliver investment portfolio analysis using FinGPT Dow30 model (PEFT) 
 * Fetched Yahoo Finance data (stock data, news) and created prompts to generate stock analysis & predictions
 
-#### [Fair Share](https://srikarpisupati.github.io/FairShare.html) — Undergraduate Research, Software Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2024 - Present
+#### [Fair Share](https://srikarpisupati.github.io/FairShare.html) — Undergraduate Research, Software Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2024 - Dec 2024
 * Researched fair-division algorithms to optimally allocate indivisible resources, given individual preferences
 * Developed a user-friendly iOS app (Swift, Cloud Functions) to compute allocations, maximizing Nash Welfare
 * Implemented SciPy’s _LP_ and _Min Weight Bipartite Matching_ algorithms, tested performance with synthetic data
@@ -84,5 +90,3 @@ Can be found at my GitHub: github.com/srikarpisupati
 | ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ AP Scholar with Distinction Award (2021-23) |
 | ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) | ★ CS 341 Course Assistant | 
 | ★ Project: Code Outreach Director |
-
-#### [Contact Me](contact.md)
