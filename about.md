@@ -13,15 +13,32 @@ permalink: /about/
 
 ### NOTABLE COURSEWORK
 ## Coursework
-
-| Category | Courses |
-|----------|--------|
-| **Systems & Distributed Systems** | CS 425 (Distributed Systems), CS 341 (Systems Programming), CS 483 (Applied Parallel Programming), CS 233 (Computer Architecture) |
-| **Machine Learning & Data** | CS 446 (Machine Learning), CS 498 (Machine Learning Systems), CS 410 (Text Information Systems), CS 498 (Data Management in the Cloud) |
-| **Algorithms & Theory** | CS 374 (Algorithms), CS 173 (Discrete Structures), CS 421 (Programming Languages & Compilers) |
-| **Databases** | CS 411 (Database Systems) |
-| **Math & Statistics** | STAT 433 (Stochastic Processes), STAT 420 (Applied Statistics), STAT 400 (Intro to Statistics), CS 361 (Probability for CS), MATH 257 (Linear Algebra), CS 357 (Numerical Methods) |
-| **Foundations & Other** | CS 225 (Data Structures), CS 128 (Intro to CS II), CS 211 (Ethics), BADM 261 (Technology & Management) |
+<div class="cards">
+  <div class="card">
+    <h3>Systems</h3>
+    <p>CS 425 (Distributed Systems), CS 341 (Systems Programming), CS 483 (Applied Parallel Programming), CS 233 (Computer Architecture), CS 411 (Database Systems)</p>
+  </div>
+  
+  <div class="card">
+    <h3>Machine Learning & Data</h3>
+    <p>CS 446 (Machine Learning), CS 498 (Machine Learning Systems), CS 410 (Text Information Systems), CS 498 (Data Management in the Cloud)</p>
+  </div>
+  
+  <div class="card">
+    <h3>Data Structures, Algorithms, & Theory</h3>
+    <p>CS 374 (Algorithms), CS 173 (Discrete Structures), CS 421 (Programming Languages & Compilers)</p>
+  </div>
+  
+  <div class="card">
+    <h3>Math & Statistics</h3>
+    <p>STAT 433 (Stochastic Processes), STAT 420 (Applied Statistics), STAT 400 (Intro to Statistics), CS 361 (Probability for CS), MATH 257 (Linear Algebra), CS 357 (Numerical Methods)</p>
+  </div>
+  
+  <div class="card">
+    <h3>Foundations and Other</h3>
+    <p>CS 128 (Intro to CS II), CS 211 (Ethics), BADM 261 (Technology & Management)</p>
+  </div>
+</div>
 
 ### SKILLS
 #### Languages: C/C++, Python, Java, CUDA, Go, Swift, SQL, R, Verilog, Haskell
