@@ -6,8 +6,6 @@ I've worked with a variety of languages, including C/C++, Python, Java, and Swif
 
 I love traveling, playing basketball with my friends, making music, and watching movies :)
 
-[Who am I / Resume](SrikarPisupati.md)
-
 ## My Blog Posts
 ### Paper Summaries
 #### [DeepSeek V3 Technical Report](papers/mlsys/498DeepSeek.md)
