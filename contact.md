@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
+
 # Connect with me!
 
 srikar.pisupati@gmail.com
