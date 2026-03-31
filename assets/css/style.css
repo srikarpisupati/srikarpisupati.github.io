@@ -80,12 +80,17 @@ a:visited {
 }
 
 .course-list {
-  padding-left: 18px;
-  margin-top: 10px;
+  list-style: none;
+  padding: 0;
+  margin-top: 12px;
 }
 
 .course-list li {
-  margin-bottom: 8px;
-  line-height: 1.5;
-  color: #334155;
+  padding: 6px 0;
+  border-bottom: 1px solid #e2e8f0;
+  line-height: 1.4;
+}
+
+.course-list li:last-child {
+  border-bottom: none;
 }
