@@ -76,15 +76,8 @@ permalink: /about/
 
 ### INTERNSHIPS
 
-#### Amazon Web Services - Software Development Engineer Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; May 2025 - Aug 2025
-
-* Built a Streamlit web app to generate dashboards from natural language or SQL queries on S3-hosted datasets
-* Designed serverless backend for event -driven query execution and chart recommendation service ( <10s SLO)
-* Created prompt -tuned LLM agents to handle text -to-SQL, suggest chart types, and generate Plotly JSON configs
-* Implemented 7-day query history and result caching to optimize reusability and minimize redundant LLM calls
-* Developed LLM-powered tools to generate synthetic datasets from schema definitions for scalable testing
-* Prototyped alternative backend architectures (WebSocket, polling) to evaluate system scalability and latency
-Skills: AWS Lambda, Amazon Bedrock ( Claude 3.5), API Gateway, Athena, S3, DynamoDB, CDK
+#### Amazon - Software Development Engineer Intern (May 2025 - Aug 2025)
+AWS Applied AI Solutions for Manufacturing
 
 ### PROJECTS & HACKATHONS
 
