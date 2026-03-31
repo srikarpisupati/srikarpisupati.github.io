@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
 
 # Srikar Pisupati
 
