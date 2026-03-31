@@ -1,3 +1,9 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+---
+
 ## My Blog Posts
 ### Paper Summaries
 #### [DeepSeek V3 Technical Report](papers/mlsys/498DeepSeek.md)
