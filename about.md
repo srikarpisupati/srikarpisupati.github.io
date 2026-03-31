@@ -14,16 +14,17 @@ permalink: /about/
 ### NOTABLE COURSEWORK
 ## Coursework
 <div class="cards">
+  
   <div class="card">
     <h3>Systems</h3>
     <ul class="course-list">
-      <li>CS 425 — Distributed Systems</li>
-      <li>CS 341 — Systems Programming</li>
-      <li>CS 483 — Applied Parallel Programming</li>
-      <li>CS 233 — Computer Architecture</li>
-      <li>CS 411 — Database Systems</li>
+      <li>CS 425 (Distributed Systems)</li>
+      <li>CS 341 (Systems Programming)</li>
+      <li>CS 483 (Applied Parallel Programming)</li>
+      <li>CS 233 (Computer Architecture)</li>
+      <li>CS 411 (Database Systems)</li>
     </ul>
-</div>
+  </div>
   
   <div class="card">
     <h3>Machine Learning & Data</h3>
