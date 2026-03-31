@@ -8,22 +8,20 @@ permalink: /about/
 
 ### EDUCATION
 
-**BS in Computer Science & Minor in Statistics**  
-<br>**2023 - 2026 (exp)**
+**BS in Computer Science & Minor in Statistics (2023 - 2026)**
 <br>University of Illinois Urbana-Champaign, Grainger College of Engineering
 
 ### NOTABLE COURSEWORK
-_2026 Spring:_ ● CS 425: Distributed Systems ● CS 421: Programming Languages and Compilers ● CS 498: Data Management in the Cloud ● STAT 433: Stochastic Processes
+<div class="card">
+<h3>Systems & Distributed Systems</h3>
+<p>CS 425, CS 341, CS 483, CS 233</p>
+</div>
 
-_2025 Fall:_ &ensp;&ensp;● CS 374: Intro to Algorithms ● CS 498: Machine Learning Systems ● CS 483: Applied Parallel Programming ● CS 410: Text Information Systems
+<div class="card">
+<h3>Machine Learning & Data</h3>
+<p>CS 446, CS 498 ML Systems, CS 410, CS 498 Cloud Data</p>
+</div>
 
-_2025 Spring:_ ● CS 341: Systems Programming ● CS 446: Machine Learning ● CS 411: Database Systems ● STAT 420: Applied Statistics ● CS 211: Ethics
-
-_2024 Fall:_ &ensp;&emsp;● CS 225: Data Structures (A) ● CS 233: Computer Architecture (A) ● CS 357: Numerical Methods I (A) ● STAT 400: Intro to Statistics (A) ● BADM 261: Technology & Management Seminar
-
-_2024 Spring:_ ● CS 361: Probability & Statistics for CS (A) ● CS 128: Intro to CS II (A)
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ● CS 173: Discrete Structures (A) ● MATH 257: Linear Algebra with Computational Applications (A)
-  
 ### SKILLS
 #### Languages: C/C++, Python, Java, CUDA, Go, Swift, SQL, R, Verilog, Haskell
 #### Cloud: AWS Lambda, Bedrock, Athena, S3, DynamoDB, CDK, GCP BigQuery, Firebase
