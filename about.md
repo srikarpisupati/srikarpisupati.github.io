@@ -13,6 +13,7 @@ permalink: /about/
 
 ### NOTABLE COURSEWORK
 <div class="cards">
+  
   <div class="card">
     <h3>Systems</h3>
     <p>CS 425 (Distributed Systems), CS 341 (Systems Programming), CS 483 (Applied Parallel Programming), CS 233 (Computer Architecture), CS 411 (Database Systems)</p>
@@ -34,9 +35,10 @@ permalink: /about/
   </div>
   
   <div class="card">
-    <h3>Foundations and Other</h3>
+    <h3>Foundations & Other</h3>
     <p>CS 128 (Intro to CS II), CS 211 (Ethics), BADM 261 (Technology & Management)</p>
   </div>
+  
 </div>
 
 ### SKILLS
