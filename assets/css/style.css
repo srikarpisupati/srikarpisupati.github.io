@@ -68,3 +68,7 @@ h1 {
 .button:hover {
   background: #1e293b;
 }
+
+a:visited {
+  color: inherit; 
+}
