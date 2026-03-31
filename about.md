@@ -16,27 +16,49 @@ permalink: /about/
 <div class="cards">
   <div class="card">
     <h3>Systems</h3>
-    <p>CS 425 (Distributed Systems), CS 341 (Systems Programming), CS 483 (Applied Parallel Programming), CS 233 (Computer Architecture), CS 411 (Database Systems)</p>
-  </div>
+    <ul class="course-list">
+      <li>CS 425 — Distributed Systems</li>
+      <li>CS 341 — Systems Programming</li>
+      <li>CS 483 — Applied Parallel Programming</li>
+      <li>CS 233 — Computer Architecture</li>
+      <li>CS 411 — Database Systems</li>
+    </ul>
+</div>
   
   <div class="card">
     <h3>Machine Learning & Data</h3>
-    <p>CS 446 (Machine Learning), CS 498 (Machine Learning Systems), CS 410 (Text Information Systems), CS 498 (Data Management in the Cloud)</p>
+    <ul class="course-list">
+      <li>CS 446 (Machine Learning)</li>
+      <li>CS 498 (Machine Learning Systems)</li>
+      <li>CS 410 (Text Information Systems)</li>
+      <li>CS 498 (Data Management in the Cloud)</li>
+    </ul>
   </div>
   
   <div class="card">
     <h3>Data Structures, Algorithms, & Theory</h3>
-    <p>CS 374 (Algorithms), CS 173 (Discrete Structures), CS 421 (Programming Languages & Compilers)</p>
+    <ul class="course-list">
+      <li>CS 374 (Algorithms)<\li> 
+      <li>CS 173 (Discrete Structures)</li>
+      <li>CS 421 (Programming Languages & Compilers)</li>
+    </ul>
   </div>
   
   <div class="card">
     <h3>Math & Statistics</h3>
-    <p>STAT 433 (Stochastic Processes), STAT 420 (Applied Statistics), STAT 400 (Intro to Statistics), CS 361 (Probability for CS), MATH 257 (Linear Algebra), CS 357 (Numerical Methods)</p>
+    <li>STAT 433 (Stochastic Processes)</li>
+    <li>STAT 420 (Applied Statistics)</li>
+    <li>STAT 400 (Intro to Statistics)</li>
+    <li>CS 361 (Probability for CS)</li>
+    <li>MATH 257 (Linear Algebra)</li>
+    <li>CS 357 (Numerical Methods)</li>
   </div>
   
   <div class="card">
     <h3>Foundations and Other</h3>
-    <p>CS 128 (Intro to CS II), CS 211 (Ethics), BADM 261 (Technology & Management)</p>
+    <li>CS 128 (Intro to CS II)</li>
+    <li>CS 211 (Ethics)</li>
+    <li>BADM 261 (Technology & Management)</li>
   </div>
 </div>
 
