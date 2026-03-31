@@ -47,19 +47,23 @@ permalink: /about/
   
   <div class="card">
     <h3>Math & Statistics</h3>
-    <li>STAT 433 (Stochastic Processes)</li>
-    <li>STAT 420 (Applied Statistics)</li>
-    <li>STAT 400 (Intro to Statistics)</li>
-    <li>CS 361 (Probability for CS)</li>
-    <li>MATH 257 (Linear Algebra)</li>
-    <li>CS 357 (Numerical Methods)</li>
+    <ul class="course-list">
+      <li>STAT 433 (Stochastic Processes)</li>
+      <li>STAT 420 (Applied Statistics)</li>
+      <li>STAT 400 (Intro to Statistics)</li>
+      <li>CS 361 (Probability for CS)</li>
+      <li>MATH 257 (Linear Algebra)</li>
+      <li>CS 357 (Numerical Methods)</li>
+    </ul>
   </div>
   
   <div class="card">
     <h3>Foundations and Other</h3>
-    <li>CS 128 (Intro to CS II)</li>
-    <li>CS 211 (Ethics)</li>
-    <li>BADM 261 (Technology & Management)</li>
+    <ul class="course-list">
+      <li>CS 128 (Intro to CS II)</li>
+      <li>CS 211 (Ethics)</li>
+      <li>BADM 261 (Technology & Management)</li>
+    </ul>
   </div>
 </div>
 
