@@ -1,10 +1,6 @@
 
 # Srikar Pisupati
 
-### Links
-
-**[Github](http://github.com/srikarpisupati) - [Website](https://srikarpisupati.github.io/) - [LinkedIn](http://linkedin.com/in/srikar-pisupati) - [Devpost](http://devpost.com/srikarp)**
-
 ### EDUCATION
 
 **BS Computer Science & Minor in Statistics**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **2023 - 2026 (exp)**
