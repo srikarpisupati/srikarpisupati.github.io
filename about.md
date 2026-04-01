@@ -6,12 +6,11 @@ permalink: /about/
 
 # Srikar Pisupati
 
-### EDUCATION
+## Education
 
 **BS in Computer Science & Minor in Statistics (2023 - 2026)**
 <br>University of Illinois Urbana-Champaign, Grainger College of Engineering
 
-### NOTABLE COURSEWORK
 ## Coursework
 <div class="cards">
   
@@ -67,19 +66,19 @@ permalink: /about/
   </div>
 </div>
 
-### SKILLS
+## Skills
 #### Languages: C/C++, Python, Java, CUDA, Go, Swift, SQL, R, Verilog, Haskell
 #### Cloud: AWS Lambda, Bedrock, Athena, S3, DynamoDB, CDK, GCP BigQuery, Firebase
 #### Platforms: iOS, Android, React, Flask
 #### ML Tools: NumPy, PyTorch, Pandas, Matplotlib, SciPy (stats, linalg, optimize, sparse.csgraph), Scikit-Learn, HuggingFace, Seaborn, TensorFlow, OpenCV, MediaPipe
 #### Misc: Git, LaTex, Valgrind
 
-### INTERNSHIPS
+## Work Experience
 
 #### Amazon - Software Development Engineer Intern (May 2025 - Aug 2025)
 AWS Applied AI Solutions for Manufacturing
 
-### PROJECTS & HACKATHONS
+## Projects & Hackathons
 
 Can be found at my GitHub: github.com/srikarpisupati
 
@@ -106,7 +105,7 @@ Can be found at my GitHub: github.com/srikarpisupati
 * Trained and tuned a CNN based ASL classification model using the Sign Language MNIST dataset
 * Created a Python Gradio web app to capture camera image and classify it using the pre-trained ASL model
 
-### ASSIGNMENTS
+## Assignments
 
 * Built core system utilities in C: custom malloc, concurrent client –server system, parallel make, and a basic shell
 * Gradient Descent: Analytically implemented and compared Adam, SGD, and AdaGrad optimizers
@@ -117,7 +116,7 @@ Can be found at my GitHub: github.com/srikarpisupati
 * IlliniBook: Developed a social network to search related people, shortest path, and connected components (BFS)
 * Created a skill–job matching web app: designed DB schema & SQL queries (top companies, in-demand skills).
 
-### AWARDS & LEADERSHIP
+## Awards & Leadership
 
 |||
 |--|--|
