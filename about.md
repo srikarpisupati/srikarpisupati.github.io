@@ -65,11 +65,16 @@ permalink: /about/
 </div>
 
 ## Skills
-#### Languages: C/C++, Python, Java, CUDA, Go, Swift, SQL, R, Verilog, Haskell
-#### Cloud: AWS Lambda, Bedrock, Athena, S3, DynamoDB, CDK, GCP BigQuery, Firebase
-#### Platforms: iOS, Android, React, Flask
-#### ML Tools: NumPy, PyTorch, Pandas, Matplotlib, SciPy (stats, linalg, optimize, sparse.csgraph), Scikit-Learn, HuggingFace, Seaborn, TensorFlow, OpenCV, MediaPipe
-#### Misc: Git, LaTex, Valgrind
+#### Languages: 
+C/C++, Python, Java, CUDA, Go, Swift, SQL, R, Verilog, Haskell
+#### Cloud: 
+AWS Lambda, Bedrock, Athena, S3, DynamoDB, CDK, GCP BigQuery, Firebase
+#### Full-stack Platforms: 
+iOS, Android, React, Flask
+#### ML Tools: 
+NumPy, PyTorch, Pandas, Matplotlib, SciPy (stats, linalg, optimize, sparse.csgraph), Scikit-Learn, HuggingFace, Seaborn, TensorFlow, OpenCV, MediaPipe
+#### Misc. Development Tools: 
+Git, LaTex, Valgrind
 
 ## Work Experience
 
