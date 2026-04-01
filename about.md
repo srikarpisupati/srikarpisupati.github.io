@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Srikar Pisupati
-
 ## Education
 
 **BS in Computer Science & Minor in Statistics (2023 - 2026)**
