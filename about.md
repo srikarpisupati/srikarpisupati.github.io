@@ -42,7 +42,7 @@ Text2SQL, Asynchronous Serverless Design, LLM-based Automatic Data Visualization
     <h3>Data Structures, Algorithms, & Theory</h3>
     <ul class="course-list">
       <li>CS 374 (Algorithms)</li> 
-      <li>CS 225 (Data Structures)</li
+      <li>CS 225 (Data Structures)</li>
       <li>CS 173 (Discrete Structures)</li>
       <li>CS 421 (Programming Languages & Compilers)</li>
     </ul>
