@@ -24,7 +24,7 @@ Text2SQL, Asynchronous Serverless Design, LLM-based Automatic Data Visualization
       <li>CS 341 (Systems Programming)</li>
       <li>CS 483 (Applied Parallel Programming)</li>
       <li>CS 233 (Computer Architecture)</li>
-      <li>CS 411 (Database Systems)</li>
+      <li>CS 498 (Data Management in the Cloud)</li>
     </ul>
   </div>
   
@@ -34,7 +34,7 @@ Text2SQL, Asynchronous Serverless Design, LLM-based Automatic Data Visualization
       <li>CS 446 (Machine Learning)</li>
       <li>CS 498 (Machine Learning Systems)</li>
       <li>CS 410 (Text Information Systems)</li>
-      <li>CS 498 (Data Management in the Cloud)</li>
+      <li>CS 411 (Database Systems)</li>
     </ul>
   </div>
   
