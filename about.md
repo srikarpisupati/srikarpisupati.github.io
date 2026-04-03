@@ -12,7 +12,7 @@ permalink: /about/
 ## Work Experience
 
 #### Amazon - Software Development Engineer Intern (May 2025 - Aug 2025)
-AWS Applied AI Solutions for Manufacturing
+Text2sql, Automatic Data Visualization Platform
 
 ## Coursework
 <div class="cards">
