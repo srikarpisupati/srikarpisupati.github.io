@@ -9,6 +9,11 @@ permalink: /about/
 **BS in Computer Science & Minor in Statistics (2023 - 2026)**
 <br>University of Illinois Urbana-Champaign, Grainger College of Engineering
 
+## Work Experience
+
+#### Amazon - Software Development Engineer Intern (May 2025 - Aug 2025)
+AWS Applied AI Solutions for Manufacturing
+
 ## Coursework
 <div class="cards">
   
@@ -75,8 +80,3 @@ iOS, Android, React, Flask
 NumPy, PyTorch, Pandas, Matplotlib, SciPy (stats, linalg, optimize, sparse.csgraph), Scikit-Learn, HuggingFace, Seaborn, TensorFlow, OpenCV, MediaPipe
 #### Misc. Development Tools: 
 Git, LaTex, Valgrind
-
-## Work Experience
-
-#### Amazon - Software Development Engineer Intern (May 2025 - Aug 2025)
-AWS Applied AI Solutions for Manufacturing
