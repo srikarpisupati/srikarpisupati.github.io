@@ -7,7 +7,7 @@ permalink: /about/
 ## Education
 
 **University of Illinois Urbana-Champaign, Grainger College of Engineering**
-B.S. in Computer Science, Minor in Statistics (2023 - 2026)
+<br>B.S. in Computer Science, Minor in Statistics (2023 - 2026)
 
 ## Work Experience
 
