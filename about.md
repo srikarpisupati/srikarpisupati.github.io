@@ -6,12 +6,13 @@ permalink: /about/
 
 ## Education
 
-**University of Illinois Urbana-Champaign, Grainger College of Engineering (2023 - 2026)**
-<br>B.S. in Computer Science, Minor in Statistics 
+**University of Illinois Urbana-Champaign, Grainger College of Engineering**
+<br>B.S. in Computer Science, Minor in Statistics (Aug 2023 - May 2026)
 
 ## Work Experience
 
-#### Amazon - Software Development Engineer Intern (May 2025 - Aug 2025)
+#### Amazon 
+##### Software Development Engineer Intern (May 2025 - Aug 2025)
 Text2SQL, Asynchronous Serverless Design, LLM-based Automatic Data Visualization Recommendation + Generation
 
 ## Relevant Coursework
