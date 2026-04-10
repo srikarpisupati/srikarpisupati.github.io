@@ -11,7 +11,7 @@ permalink: /about/
 
 ## Work Experience
 
-#### Amazon 
+### Amazon AWS
 #### Software Development Engineer Intern (May 2025 - Aug 2025)
 Text2SQL, Asynchronous Serverless Design, LLM-based Automatic Data Visualization Recommendation + Generation
 
