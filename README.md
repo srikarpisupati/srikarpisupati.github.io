@@ -6,4 +6,4 @@ I love tinkering with and building out new ideas. I’m an eager learner and I l
 
 I'm interested in learning about complex networks, systems, and machine learning systems that help people automate processes and make decisions. 
 
-For fun, I love traveling, playing basketball with my friends, making music, and watching movies :)
+For fun, I love traveling, playing basketball with my friends, making music, cheffing up meals, and watching movies :)
