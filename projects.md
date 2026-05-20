@@ -9,7 +9,7 @@ permalink: /projects/
 
 Can be found at my GitHub: github.com/srikarpisupati
 
-#### Course Projects  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2026 - May 2026
+#### Course Projects                                                       Jan 2026 - May 2026
 * Programming Languages: Implemented various projects in Haskell, including writing an Interpreter, Algebraic Data Types, and implementing Forth.
 * System Programming: Built core system utilities in C: custom malloc, concurrent client–server system, parallel make, and a basic shell
 * Database Systems: Created a skill–job matching web app: designed DB schema & SQL queries (top companies, in-demand skills).
