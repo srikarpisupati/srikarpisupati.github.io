@@ -71,14 +71,12 @@ Text2SQL, Asynchronous Serverless Design (Query Execution + Caching), LLM-based 
   </div>
 </div>
 
-## Skills
-#### Languages: 
-C/C++, Python, Java, CUDA, Go, Swift, SQL, R, Verilog, Haskell
-#### Cloud: 
-AWS Lambda, Bedrock, Athena, S3, DynamoDB, CDK, GCP BigQuery, Firebase
-#### Full-stack Platforms: 
-iOS, Android, React, Flask
-#### ML Tools: 
-NumPy, PyTorch, Pandas, Matplotlib, SciPy (stats, linalg, optimize, sparse.csgraph), Scikit-Learn, HuggingFace, Seaborn, TensorFlow, OpenCV, MediaPipe
-#### Misc. Development Tools: 
-Git, LaTex, Valgrind
+## Awards & Leadership
+
+|||
+|--|--|
+| ★ [AURA](https://srikarpisupati.github.io/AURA.pdf): Disaster Analytics (1st place, Dec 2024) | ★ Dean’s List, Spring 2024, Fall 2024, Spring 2025 |
+| ★ Illine: BuildIllinois Hackathon (4th place, 2023) | ★ CS 341 Course Assistant |
+| ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ Project: Code Outreach Director |
+| ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) | ★ National Merit Scholar Finalist (2023) | 
+| ★ AP Scholar with Distinction Award (2021-23) | President of California Scholarship Federation (2023) |
