@@ -79,4 +79,4 @@ Text2SQL, Asynchronous Serverless Design (Query Execution + Caching), LLM-based 
 | ★ Illine: BuildIllinois Hackathon (4th place, 2023) | ★ CS 341 Course Assistant |
 | ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ Project: Code Outreach Director |
 | ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) | ★ National Merit Scholar Finalist (2023) | 
-| ★ AP Scholar with Distinction Award (2021-23) | President of California Scholarship Federation (2023) |
+| ★ AP Scholar with Distinction Award (2021-23) | ★ President of California Scholarship Federation (2023) |
