@@ -9,19 +9,19 @@ permalink: /projects/
 
 Can be found at my GitHub: github.com/srikarpisupati
 
-#### Distributed Systems &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2026 - May 2026
-Implemented in Go from scratch: 
-* distributed event logging with centralized logger
-* distributed event ordering for replicated objects with total-ordered multicast
-* Raft leader election and log consensus algorithm, and
-* distributed transaction system for sharded objects (satisfying ACID properties) that can handle up to 5 simultaneous clients, using timestamped ordering and 2PC. 
-
 #### Course Projects  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2026 - May 2026
 * Programming Languages: Implemented various projects in Haskell, including writing an Interpreter, Algebraic Data Types, and implementing Forth.
 * System Programming: Built core system utilities in C: custom malloc, concurrent client–server system, parallel make, and a basic shell
 * Database Systems: Created a skill–job matching web app: designed DB schema & SQL queries (top companies, in-demand skills).
 * Data Structures: Implemented k-d tree to map image sections to nearest tile by color, to build a photo mosaic
 * Data Structures: Developed a social network to search related people, shortest path, and connected components (BFS)
+
+#### Distributed Systems &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2026 - May 2026
+Implemented in Go from scratch: 
+* distributed event logging with centralized logger
+* distributed event ordering for replicated objects with total-ordered multicast
+* Raft leader election and log consensus algorithm, and
+* distributed transaction system for sharded objects (satisfying ACID properties) that can handle up to 5 simultaneous clients, using timestamped ordering and 2PC. 
 
 #### GPT-2 Inference Kernels &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Aug 2025 - Dec 2025
 * Built forward pass of GPT-2 with CPU orchestration & GPU kernel design for multi-head attention and LayerNorm. 
