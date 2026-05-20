@@ -9,6 +9,16 @@ permalink: /projects/
 
 Can be found at my GitHub: github.com/srikarpisupati
 
+#### CS 425 Distributed Systems  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2026 - May 2026
+Implemented in Go from scratch: 
+* distributed event logging with centralized logger
+* distributed event ordering for replicated objects with total-ordered multicast
+* Raft leader election and log consensus algorithm, and
+* distributed transaction system for sharded objects (satisfying ACID properties) that can handle up to 5 simultaneous clients, using timestamped ordering and 2PC. 
+
+#### CS 421 Programming Languages & Compilers  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2026 - May 2026
+* Implemented various projects in Haskell, including writing an Interpreter, Algebraic Data Types, and implementing Forth.
+
 #### GPT-2 CUDA Kernels — CS 483 Applied Parallel Programming  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Aug 2025 - Dec 2025
 * Built forward pass of GPT-2 with CPU orchestration & GPU kernel design for multi-head attention and LayerNorm. 
 * Implemented and profiled performance of Flash Attention, Local Attention, Kernel Fusion, and used Tensor Cores.
@@ -17,6 +27,10 @@ Can be found at my GitHub: github.com/srikarpisupati
 #### Distributed ML Training — CS 498 ML Systems  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Aug 2025 - Dec 2025
 * Coded parameter server, ring all-reduce using PyTorch P2P primitives to fine-tune Qwen3-0.6B on a CPU cluster
 * Analyzed ZeRO, SGLang, & Speculative Decoding papers, exploring large-scale training and inference techniques
+* Developed adaptive ML compiler selection framework to benchmark and route workloads based on model characteristics and hardware profiles
+
+#### Briefly — CS 410 Text Information Systems  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Aug 2025 - Dec 2025
+* Built legal hybrid retrieval system that allows users to enter a legal topic in natural language and receive the top-n most relevant precedents. 
 
 #### CS 341 - System Programming  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2025 - May 2025
 * Built core system utilities in C: custom malloc, concurrent client–server system, parallel make, and a basic shell
