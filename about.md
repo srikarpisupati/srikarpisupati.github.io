@@ -11,6 +11,10 @@ permalink: /about/
 
 ## Work Experience
 
+#### CS 341 System Programming
+#### Course Assistant (Aug 2025 - May 2026)
+Host weekly labs & office hours helping 250+ students understand concepts and debug projects in C (malloc, shell)
+
 #### Amazon Web Services
 #### Software Development Engineer Intern (May 2025 - Aug 2025)
 Text2SQL, Asynchronous Serverless Design (Query Execution + Caching), LLM-based Automatic Data Visualization Recommendation + Generation
@@ -72,6 +76,11 @@ Text2SQL, Asynchronous Serverless Design (Query Execution + Caching), LLM-based 
 </div>
 
 ## Awards & Leadership
+
+#### Project: Code Executive Team — External Outreach Coordinator	(Aug 2025 - May 2026)
+* Responsible for matching 100+ students to 15+ programming projects, and overseeing their completion
+* Handling relations with 3+ corporate partners (Amazon, Uber, etc) & planning milestone events for 100+ students across 15+ projects
+* Hosted event with Amazon recruiters and engineers for 50+ Project Code members 
 
 |||
 |--|--|
