@@ -42,3 +42,16 @@ Can be found at my GitHub: github.com/srikarpisupati
 * PhotoMosaic: Implemented k-d tree to map image sections to nearest tile by color, to build a photo mosaic
 * IlliniBook: Developed a social network to search related people, shortest path, and connected components (BFS)
 * Created a skill–job matching web app: designed DB schema & SQL queries (top companies, in-demand skills).
+
+
+## Skills
+#### Languages: 
+C/C++, Python, Java, CUDA, Go, Swift, SQL, R, Verilog, Haskell
+#### Cloud: 
+AWS Lambda, Bedrock, Athena, S3, DynamoDB, CDK, GCP BigQuery, Firebase
+#### Full-stack Platforms: 
+iOS, Android, React, Flask
+#### ML Tools: 
+NumPy, PyTorch, Pandas, Matplotlib, SciPy (stats, linalg, optimize, sparse.csgraph), Scikit-Learn, HuggingFace, Seaborn, TensorFlow, OpenCV, MediaPipe
+#### Misc. Development Tools: 
+Git, LaTex, Valgrind
