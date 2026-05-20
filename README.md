@@ -1,6 +1,6 @@
 # Hey there, I'm Srikar!
 
-I am a Computer Science student at the University of Illinois Urbana-Champaign, and I'm originally from the Bay Area. 
+I am a Computer Science student at the University of Illinois Urbana-Champaign, originally from the Bay Area. 
 
 I love tinkering with and building out new ideas. I’m an eager learner and I love building tech that solves real-life problems.
 
