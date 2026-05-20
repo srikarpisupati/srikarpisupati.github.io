@@ -42,13 +42,3 @@ Can be found at my GitHub: github.com/srikarpisupati
 * PhotoMosaic: Implemented k-d tree to map image sections to nearest tile by color, to build a photo mosaic
 * IlliniBook: Developed a social network to search related people, shortest path, and connected components (BFS)
 * Created a skill–job matching web app: designed DB schema & SQL queries (top companies, in-demand skills).
-
-## Awards & Leadership
-
-|||
-|--|--|
-| ★ [AURA](https://srikarpisupati.github.io/AURA.pdf): Disaster Analytics (1st place, Dec 2024) | ★ Dean’s List, Spring 2024, Fall 2024, Spring 2025 |
-| ★ Illine: BuildIllinois Hackathon (4th place, 2023) | ★ CS 341 Course Assistant |
-| ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ Project: Code Outreach Director |
-| ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) | ★ National Merit Scholar Finalist (2023) | 
-| ★ AP Scholar with Distinction Award (2021-23) | President of California Scholarship Federation (2023) |
