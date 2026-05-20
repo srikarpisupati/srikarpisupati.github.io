@@ -13,11 +13,11 @@ permalink: /about/
 
 #### CS 341 System Programming
 #### Course Assistant (Aug 2025 - May 2026)
-Host weekly labs & office hours helping 250+ students understand concepts and debug projects in C (malloc, shell)
+* Host weekly labs & office hours helping 250+ students understand concepts and debug projects in C (malloc, shell)
 
 #### Amazon Web Services
 #### Software Development Engineer Intern (May 2025 - Aug 2025)
-Text2SQL, Asynchronous Serverless Design (Query Execution + Caching), LLM-based Automatic Data Visualization Recommendation + Generation
+* Text2SQL, Asynchronous Serverless Design (Query Execution + Caching), LLM-based Automatic Data Visualization Recommendation + Generation
 
 ## Relevant Coursework
 <div class="cards">
