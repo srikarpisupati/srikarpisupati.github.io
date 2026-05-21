@@ -56,13 +56,20 @@ Implemented the following in Go from scratch:
 * Built regression model for predicting Revenue-Passenger-Miles from 5+ factors, for Kaggle Air Traffic dataset
 
 <div class="project-header">
+  <h4>Skillini</h4>
+  <span>Jan 2025 - May 2025</span>
+</div>
+
+* Worked in a team of 4 to create a skill–job matching web app that matches students to courses and jobs based on skills they would like to grow.
+* Designed DB schema to store jobs, user data, and courses, formulated SQL Queries to retrieve companies with the most jobs, the most in-demand skills.
+
+<div class="project-header">
   <h4>Course Projects</h4>
   <span>Aug 2024 – May 2026</span>
 </div>
 
 * Programming Languages: Implemented various projects in Haskell, including writing an Interpreter, Algebraic Data Types, and implementing Forth.
 * System Programming: Built core system utilities in C: custom malloc, concurrent client–server system, parallel make, and a basic shell
-* Database Systems: Created a skill–job matching web app: designed DB schema & SQL queries (top companies, in-demand skills).
 * Data Structures: Implemented k-d tree to map image sections to nearest tile by color, to build a photo mosaic
 * Data Structures: Developed a social network to search related people, shortest path, and connected components (BFS)
 * Computer Architecture: Designed and verified single-cycle and pipelined MIPS datapaths with FSM-based control and testbenches in Verilog
@@ -76,8 +83,10 @@ Implemented the following in Go from scratch:
   <span>Sep 2024 – Dec 2024</span>
 </div>
 
-* Developed Flask-based REST APIs to deliver investment portfolio analysis using FinGPT Dow30 model (PEFT) 
-* Fetched Yahoo Finance data (stock data, news) and created prompts to generate stock analysis & predictions
+* Developed an LLM-based web app to help beginner investors understand financial terms, receive personalized buy/sell recommendations, and gain insights into AI investment decisions.
+* Focused on delivering portfolio analysis by identifying positive developments, potential concerns, and final recommendations.
+* Utilized the FinGPT Dow30 model (based on LLaMA) with Yahoo Finance data, fine-tuned prompts to generate better results, and built REST API endpoints in Flask.
+* Collaborated in a team of 4.
 
 <div class="project-header">
   <h4>
@@ -121,6 +130,14 @@ Implemented the following in Go from scratch:
 
 * Trained and tuned a CNN based ASL classification model using the Sign Language MNIST dataset
 * Created a Python Gradio web app to capture camera image and classify it using the pre-trained ASL model
+
+<div class="project-header">
+  <h4>Rate My Course</h4>
+  <span>Oct 2023 - Nov 2023</span>
+</div>
+
+* Implemented an Android app that can search and display 300+ sorted courses.
+* Created HTTP-based Server to GET individual course details, GET & POST ratings, and bulk-access courses (JSON).
 
 ## Skills
 #### Languages: 
