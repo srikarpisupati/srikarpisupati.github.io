@@ -15,10 +15,10 @@ Can be found at my GitHub: github.com/srikarpisupati
 </div>
 
 Implemented the following in Go from scratch: 
-* distributed event logging with centralized logger
-* distributed event ordering for replicated objects with total-ordered multicast
+* Distributed event logging with centralized logger
+* Distributed event ordering for replicated objects with total-ordered multicast
 * Raft leader election and log consensus algorithm, and
-* distributed transaction system for sharded objects (satisfying ACID properties) that can handle up to 5 simultaneous clients, using timestamped ordering and 2PC. 
+* Distributed transaction system for sharded objects (satisfying ACID properties) that can handle up to 5 simultaneous clients, using timestamped ordering and 2PC. 
 
 <div class="project-header">
   <h4>GPT-2 Inference Kernels</h4>
