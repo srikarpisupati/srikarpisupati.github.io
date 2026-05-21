@@ -23,7 +23,6 @@ Implemented in Go from scratch:
 
 #### Distributed ML Training &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Aug 2025 - Dec 2025
 * Coded parameter server, ring all-reduce using PyTorch P2P primitives to fine-tune Qwen3-0.6B on a CPU cluster
-* Analyzed ZeRO, SGLang, & Speculative Decoding papers, exploring large-scale training and inference techniques
 * Developed adaptive ML compiler selection framework to benchmark and route workloads based on model characteristics and hardware profiles
 
 #### Briefly — CS 410 Text Information Systems  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Aug 2025 - Dec 2025
