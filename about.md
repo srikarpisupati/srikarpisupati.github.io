@@ -73,17 +73,18 @@ permalink: /about/
   </div>
 </div>
 
-## Awards & Leadership
+## Leadership
 
 ### Project Code Executive Team — External Outreach Coordinator	(Aug 2025 - May 2026)
 * Responsible for matching 100+ students to 15+ programming projects, and overseeing their completion
 * Handling relations with 3+ corporate partners (Amazon, Uber, etc) & planning milestone events for 100+ students across 15+ projects
 * Hosted event with Amazon recruiters and engineers for 50+ Project Code member attendees
 
+## Awards
+
 |||
 |--|--|
 | ★ [AURA](https://srikarpisupati.github.io/AURA.pdf): Disaster Analytics (1st place, Dec 2024) | ★ Dean’s List, Spring 2024, Fall 2024, Spring 2025 |
-| ★ Illine: BuildIllinois Hackathon (4th place, 2023) | ★ CS 341 Course Assistant |
-| ★ CS 124H: ASL Classifier, Hall of Fame (2023) | ★ Project: Code Outreach Director |
-| ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) | ★ National Merit Scholar Finalist (2023) | 
-| ★ AP Scholar with Distinction Award (2021-23) | ★ President of California Scholarship Federation (2023) |
+| ★ Illine: BuildIllinois Hackathon (4th place, 2023) | ★ CS 124H: ASL Classifier, Hall of Fame (2023) |
+| ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) | ★ President of California Scholarship Federation (2023) | 
+| ★ AP Scholar with Distinction Award (2021-23) | ★ National Merit Scholar Finalist (2023) |
