@@ -81,7 +81,6 @@ permalink: /about/
 * Hosted event with Amazon recruiters and engineers for 50+ Project Code member attendees
 
 ## Awards
-
 |||
 |--|--|
 | ★ [AURA](https://srikarpisupati.github.io/AURA.pdf): Disaster Analytics (1st place, Dec 2024) | ★ Dean’s List, Spring 2024, Fall 2024, Spring 2025 |
