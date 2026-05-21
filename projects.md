@@ -39,7 +39,7 @@ Implemented the following in Go from scratch:
 * Developed adaptive ML compiler selection framework to benchmark and route workloads based on model characteristics and hardware profiles
 
 <div class="project-header">
-  <h4>Briefly — CS 410 Text Information Systems</h4>
+  <h4>Briefly</h4>
   <span>Aug 2025 – Dec 2025</span>
 </div>
 
