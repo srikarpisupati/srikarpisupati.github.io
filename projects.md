@@ -77,7 +77,7 @@ Implemented the following in Go from scratch:
 <div class="project-header">
   <h4>
     <a href="https://srikarpisupati.github.io/Finwise.pdf">
-      FinWise — A Portfolio Manager, Software Engineer
+      FinWise — A Portfolio Manager
     </a>
   </h4>
   <span>Sep 2024 – Dec 2024</span>
@@ -91,7 +91,7 @@ Implemented the following in Go from scratch:
 <div class="project-header">
   <h4>
     <a href="https://srikarpisupati.github.io/FairShare.html">
-      Fair Share — Undergraduate Research, Software Engineer
+      Fair Share — Undergraduate Research
     </a>
   </h4>
   <span>Jan 2024 - Dec 2024</span>
