@@ -55,7 +55,11 @@ Implemented in Go from scratch:
 * Implemented VectorDB search; Trained with PyTorch: k-NN, k-means, regression, CNN, and ResNet models
 * Built regression model for predicting Revenue-Passenger-Miles from 5+ factors, for Kaggle Air Traffic dataset
 
-#### Course Projects                                                       Jan 2026 - May 2026
+<div class="project-header">
+  <h4>Course Projects</h4>
+  <span>Aug 2024 – May 2026</span>
+</div>
+
 * Programming Languages: Implemented various projects in Haskell, including writing an Interpreter, Algebraic Data Types, and implementing Forth.
 * System Programming: Built core system utilities in C: custom malloc, concurrent client–server system, parallel make, and a basic shell
 * Database Systems: Created a skill–job matching web app: designed DB schema & SQL queries (top companies, in-demand skills).
