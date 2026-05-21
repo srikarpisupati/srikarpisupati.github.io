@@ -14,7 +14,7 @@ Can be found at my GitHub: github.com/srikarpisupati
   <span>Jan 2026 – May 2026</span>
 </div>
 
-Implemented in Go from scratch: 
+Implemented the following in Go from scratch: 
 * distributed event logging with centralized logger
 * distributed event ordering for replicated objects with total-ordered multicast
 * Raft leader election and log consensus algorithm, and
