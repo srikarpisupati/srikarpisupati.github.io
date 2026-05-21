@@ -41,6 +41,7 @@ Implemented in Go from scratch:
 * Database Systems: Created a skill–job matching web app: designed DB schema & SQL queries (top companies, in-demand skills).
 * Data Structures: Implemented k-d tree to map image sections to nearest tile by color, to build a photo mosaic
 * Data Structures: Developed a social network to search related people, shortest path, and connected components (BFS)
+* Computer Architecture: Designed and verified single-cycle and pipelined MIPS datapaths with FSM-based control and testbenches in Verilog
 
 #### [FinWise](https://srikarpisupati.github.io/Finwise.pdf) — A Portfolio Manager, Software Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2024 - Dec 2024
 * Developed Flask-based REST APIs to deliver investment portfolio analysis using FinGPT Dow30 model (PEFT) 
