@@ -9,13 +9,6 @@ permalink: /projects/
 
 Can be found at my GitHub: github.com/srikarpisupati
 
-#### Course Projects                                                       Jan 2026 - May 2026
-* Programming Languages: Implemented various projects in Haskell, including writing an Interpreter, Algebraic Data Types, and implementing Forth.
-* System Programming: Built core system utilities in C: custom malloc, concurrent client–server system, parallel make, and a basic shell
-* Database Systems: Created a skill–job matching web app: designed DB schema & SQL queries (top companies, in-demand skills).
-* Data Structures: Implemented k-d tree to map image sections to nearest tile by color, to build a photo mosaic
-* Data Structures: Developed a social network to search related people, shortest path, and connected components (BFS)
-
 #### Distributed Systems &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jan 2026 - May 2026
 Implemented in Go from scratch: 
 * distributed event logging with centralized logger
@@ -41,6 +34,13 @@ Implemented in Go from scratch:
 * ML Projects: Trained and compared Random Forest, Decision Tree, kNN, and SVM models on UCIMLRepo data
 * Implemented VectorDB search; Trained with PyTorch: k-NN, k-means, regression, CNN, and ResNet models
 * Built regression model for predicting Revenue-Passenger-Miles from 5+ factors, for Kaggle Air Traffic dataset
+
+#### Course Projects                                                       Jan 2026 - May 2026
+* Programming Languages: Implemented various projects in Haskell, including writing an Interpreter, Algebraic Data Types, and implementing Forth.
+* System Programming: Built core system utilities in C: custom malloc, concurrent client–server system, parallel make, and a basic shell
+* Database Systems: Created a skill–job matching web app: designed DB schema & SQL queries (top companies, in-demand skills).
+* Data Structures: Implemented k-d tree to map image sections to nearest tile by color, to build a photo mosaic
+* Data Structures: Developed a social network to search related people, shortest path, and connected components (BFS)
 
 #### [FinWise](https://srikarpisupati.github.io/Finwise.pdf) — A Portfolio Manager, Software Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2024 - Dec 2024
 * Developed Flask-based REST APIs to deliver investment portfolio analysis using FinGPT Dow30 model (PEFT) 
