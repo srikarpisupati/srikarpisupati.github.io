@@ -117,8 +117,9 @@ a:visited {
 }
 
 .project-header a {
-  text-decoration: none;
-  color: inherit;
+  color: #2563eb;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .project-header a:hover {
