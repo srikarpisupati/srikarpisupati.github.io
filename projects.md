@@ -68,11 +68,11 @@ Implemented the following in Go from scratch:
   <span>Aug 2024 – May 2026</span>
 </div>
 
-* Programming Languages: Implemented various projects in Haskell, including writing an Interpreter, Algebraic Data Types, and implementing Forth.
-* System Programming: Built core system utilities in C: custom malloc, concurrent client–server system, parallel make, and a basic shell
-* Data Structures: Implemented k-d tree to map image sections to nearest tile by color, to build a photo mosaic
-* Data Structures: Developed a social network to search related people, shortest path, and connected components (BFS)
-* Computer Architecture: Designed and verified single-cycle and pipelined MIPS datapaths with FSM-based control and testbenches in Verilog
+* **Programming Languages**: Implemented various projects in Haskell, including writing an Interpreter, Algebraic Data Types, and implementing Forth.
+* **System Programming**: Built core system utilities in C: custom malloc, concurrent client–server system, parallel make, and a basic shell
+* **Data Structures**: Implemented k-d tree to map image sections to nearest tile by color, to build a photo mosaic
+* **Data Structures**: Developed a social network to search related people, shortest path, and connected components (BFS)
+* **Computer Architecture**: Designed and verified single-cycle and pipelined MIPS datapaths with FSM-based control and testbenches in Verilog
 
 <div class="project-header">
   <h4>
