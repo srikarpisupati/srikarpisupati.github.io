@@ -42,11 +42,10 @@ h1 {
 
 .card {
   background: white;
-  padding: 20px;
-  margin: 20px 0;
+  padding: 16px;
   border-radius: 12px;
   border: 1px solid #e2e8f0;
-  transition: all 0.2s ease;
+  font-size: 0.92rem;
 }
 
 .cards {
