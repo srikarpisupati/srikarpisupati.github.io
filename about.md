@@ -81,7 +81,7 @@ B.S. in Computer Science, Minor in Statistics
 * Hosted event with Amazon recruiters and engineers for 50+ Project Code member attendees
 
 ## Awards
-|||
+|  |  |
 |--|--|
 | ★ [AURA](https://srikarpisupati.github.io/AURA.pdf): Disaster Analytics (1st place, Dec 2024) | ★ Dean’s List, Spring 2024, Fall 2024, Spring 2025 |
 | ★ Illine: BuildIllinois Hackathon (4th place, 2023) | ★ CS 124H: ASL Classifier, Hall of Fame (2023) |
