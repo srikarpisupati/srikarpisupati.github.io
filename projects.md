@@ -26,7 +26,7 @@ Implemented the following in Go from scratch:
   <span>Aug 2025 – Dec 2025</span>
 </div>
 
-
+Implemented the following using CUDA from scratch: 
 * Built forward pass of GPT-2 with CPU orchestration & GPU kernel design for multi-head attention and LayerNorm. 
 * Implemented and profiled performance of Flash Attention, Local Attention, Kernel Fusion, and used Tensor Cores.
 * Optimized CUDA kernels (vector addition, matrix multiplication, 3D convolution) using shared memory & tiling
