@@ -81,9 +81,38 @@ B.S. in Computer Science, Minor in Statistics
 * Hosted event with Amazon recruiters and engineers for 50+ Project Code member attendees
 
 ## Awards
-|  |  |
-|--|--|
-| ★ [AURA](https://srikarpisupati.github.io/AURA.pdf): Disaster Analytics (1st place, Dec 2024) | ★ Dean’s List, Spring 2024, Fall 2024, Spring 2025 |
-| ★ Illine: BuildIllinois Hackathon (4th place, 2023) | ★ CS 124H: ASL Classifier, Hall of Fame (2023) |
-| ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023) | ★ President of California Scholarship Federation (2023) | 
-| ★ AP Scholar with Distinction Award (2021-23) | ★ National Merit Scholar Finalist (2023) |
+<div class="cards">
+
+  <div class="card">
+    ★ <a href="https://srikarpisupati.github.io/AURA.pdf">AURA</a>: Disaster Analytics (1st place, Dec 2024)
+  </div>
+
+  <div class="card">
+    ★ Dean’s List — Spring 2024, Fall 2024, Spring 2025
+  </div>
+
+  <div class="card">
+    ★ Illine: BuildIllinois Hackathon (4th place, 2023)
+  </div>
+
+  <div class="card">
+    ★ CS 124H: ASL Classifier, Hall of Fame (2023)
+  </div>
+
+  <div class="card">
+    ★ YAPA Kids Executive Director, iOS Program Lead (2021-2023)
+  </div>
+
+  <div class="card">
+    ★ President of California Scholarship Federation (2023)
+  </div>
+
+  <div class="card">
+    ★ AP Scholar with Distinction Award (2021-23)
+  </div>
+
+  <div class="card">
+    ★ National Merit Scholar Finalist (2023)
+  </div>
+
+</div>
