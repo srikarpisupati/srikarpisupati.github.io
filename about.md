@@ -108,10 +108,6 @@ B.S. in Computer Science, Minor in Statistics
   </div>
 
   <div class="card">
-    ★ AP Scholar with Distinction Award (2021-23)
-  </div>
-
-  <div class="card">
     ★ National Merit Scholar Finalist (2023)
   </div>
 
